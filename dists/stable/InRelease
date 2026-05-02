@@ -1,0 +1,46 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: SoplosLinux
+Label: SoplosLinux
+Suite: stable
+Codename: stable
+Version: 1.0
+Date: Sat, 02 May 2026 12:38:32 UTC
+Architectures: amd64
+Components: main
+Description: Repositorio de SoplosLinux
+MD5Sum:
+ d41d8cd98f00b204e9800998ecf8427e 0 main/binary-amd64/Packages
+ 7029066c27ac6f5ef18d660d5741979a 20 main/binary-amd64/Packages.gz
+ ca5e942ddd4b78e48c213d3216e830af 144 main/binary-amd64/Release
+ d41d8cd98f00b204e9800998ecf8427e 0 main/Contents-amd64
+ 7029066c27ac6f5ef18d660d5741979a 20 main/Contents-amd64.gz
+SHA1:
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/binary-amd64/Packages
+ 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/binary-amd64/Packages.gz
+ a2dfe29c3f8057aeb00a7f2d8547589ad430832d 144 main/binary-amd64/Release
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/Contents-amd64
+ 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/Contents-amd64.gz
+SHA256:
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/binary-amd64/Packages
+ 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/binary-amd64/Packages.gz
+ 730e7f0c6581a39b0d66c97a1238d989f6e66df12fce1b1ecafe2dfbe5074384 144 main/binary-amd64/Release
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/Contents-amd64
+ 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/Contents-amd64.gz
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEEFpXDeL+3Y89OIrzYWZLyo7C3fvAFAmn18EgACgkQWZLyo7C3
+fvBymg/9EEFIYJfuDDddC+BQy5ftL6p9ZEdoL0bkG9VmrmN/ikUnqSV2I7MzL0Ho
+ehTFLZFc01rnT/0kAsfNp4KWs/gGeFqvf1zDmOfDFPRthQ97tqq0XJkstfbfEENZ
+L8Hys0sZ5BE3hEoiuHcWF6QwSY7hl9lI//sje3wjs0BtSChuBd54Rz1Urtkwr23B
+8NBVS5oZvj0Uzm1/BbUq3ieOBeGZjyVyZ92rldxUKdMuu6q2ME7ngE4GPNXcBwpm
+T0mv040w9XeL3IOawJHRlLbslwTZl2X8AV2VLBqL5qsyu3hAEZvmZGIG5mc/Q3tE
+rnGVNYjEJNwUAyzWGzigU7LR30oVRVmiwgE1eVI5rvvLp4NyiG00SCHgB/ahtcom
+H0xvR/RlS/K+yZdVwUNzlfoAxdYUjxief/fpS1TYZRQQDPSMBZew2jh8l6/iu/gZ
+1bPbyKTLztQdSvCpM7/CPuBb//mpoVQeVXkqshmQt2Zc5DRR8qW2LHiy5vg/x5Ew
+zYpoid0PZUt1M8QZ2brhS82XX6Nd5G5QzOqhQRZkk8+vmonJrnmP4ouDi1KtnXH3
+YkVgthm11y/Ejw3VSpD7H8+kPjWCTSBzIgZVfZLJuFmJo8dIttyps3NMs72AoArK
+fA8aBu/Yyyq7wIn0rhy3N7DZ9NjoJxSO6W+Yc88BJe6KZMDfiZE=
+=OMO5
+-----END PGP SIGNATURE-----
