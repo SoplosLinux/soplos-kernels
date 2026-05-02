@@ -74,6 +74,25 @@ Description: Linux kernel headers for 7.0.3-soplos-ntsync on amd64
  .
  This is useful for people who need to build external modules
 
+Package: linux-headers-7.0.3-soplos-rt
+Source: linux-upstream
+Version: 1
+Architecture: amd64
+Maintainer: soplos <soplos@soplos-vmware201>
+Installed-Size: 57808
+Homepage: https://www.kernel.org/
+Priority: optional
+Section: kernel
+Filename: pool/main/l/linux-upstream/linux-headers-7.0.3-soplos-rt_1_amd64.deb
+Size: 9697456
+SHA256: 06ecabb53dd132e5486e32ae43557fe74b886f39101945451a7059edb9f7444d
+SHA1: 0cdc84c128623a11e4f9cc50a0e1a4790dd2700e
+MD5sum: 594a07dba8024c6a219d4264ac329a31
+Description: Linux kernel headers for 7.0.3-soplos-rt on amd64
+ This package provides kernel header files for 7.0.3-soplos-rt on amd64
+ .
+ This is useful for people who need to build external modules
+
 Package: linux-headers-7.0.3-zen1-soplos-zen
 Source: linux-upstream
 Version: 1
@@ -165,6 +184,24 @@ Description: Linux kernel, version 7.0.3-soplos-ntsync
  This package contains the Linux kernel, modules and corresponding other
  files, version: 7.0.3-soplos-ntsync.
 
+Package: linux-image-7.0.3-soplos-rt
+Source: linux-upstream
+Version: 1
+Architecture: amd64
+Maintainer: soplos <soplos@soplos-vmware201>
+Installed-Size: 103684
+Homepage: https://www.kernel.org/
+Priority: optional
+Section: kernel
+Filename: pool/main/l/linux-upstream/linux-image-7.0.3-soplos-rt_1_amd64.deb
+Size: 90636900
+SHA256: a046b1f21fcd618b6a9f99d57dbe4e70bcd9a42fa26442460d0f9b22120a54aa
+SHA1: 7b39f4f6eee46ab70d244e56e0f598aece89276c
+MD5sum: 10272d27cb02481704e4991a2315f821
+Description: Linux kernel, version 7.0.3-soplos-rt
+ This package contains the Linux kernel, modules and corresponding other
+ files, version: 7.0.3-soplos-rt.
+
 Package: linux-image-7.0.3-zen1-soplos-zen
 Source: linux-upstream
 Version: 1
@@ -248,6 +285,23 @@ SHA1: ce553426b5c8a18f0cdf4ef9237a611c24e0d35f
 MD5sum: 7fd7d09731a3f2d906e348dd4f9b6519
 Description: Soplos Ntsync kernel
  Installs the 7.0.3-soplos-ntsync kernel and its headers.
+ When a new version is released, upgrading this package will
+ automatically pull in the new kernel.
+
+Package: linux-soplos-rt
+Version: 7.0.3
+Architecture: amd64
+Maintainer: Soplos Linux Team <info@soplos.org>
+Depends: linux-image-7.0.3-soplos-rt, linux-headers-7.0.3-soplos-rt
+Priority: optional
+Section: kernel
+Filename: pool/main/l/linux-soplos-rt/linux-soplos-rt_7.0.3_amd64.deb
+Size: 816
+SHA256: 210763fea397a7d02bac626c8fab8ec76b40dd79e6be56c3dfe9e25607b1534e
+SHA1: ac3f2d43c3508397d13843f240ac3421cdcef5a3
+MD5sum: 241294711bd8641125ed13b33335564a
+Description: Soplos RT kernel
+ Installs the 7.0.3-soplos-rt kernel and its headers.
  When a new version is released, upgrading this package will
  automatically pull in the new kernel.
 
