@@ -146,24 +146,6 @@ Description: Linux kernel, version 7.0.3-soplos-ntsync
  This package contains the Linux kernel, modules and corresponding other
  files, version: 7.0.3-soplos-ntsync.
 
-Package: linux-image-7.0.3-soplos-zen
-Source: linux-upstream
-Version: 1
-Architecture: amd64
-Maintainer: soplos <soplos@soplos-vmware201>
-Installed-Size: 105706
-Homepage: https://www.kernel.org/
-Priority: optional
-Section: kernel
-Filename: pool/main/l/linux-upstream/linux-image-7.0.3-soplos-zen_1_amd64.deb
-Size: 92607512
-SHA256: e25d5253d08b1ed344977137ac32a9389ccf47e01f0bdefc0a1dce9dba907662
-SHA1: 8511b74f9c5a4a684116adb3bf0f07bbcdc66ec4
-MD5sum: 67980ff7118aeed15396d091f32c9109
-Description: Linux kernel, version 7.0.3-soplos-zen
- This package contains the Linux kernel, modules and corresponding other
- files, version: 7.0.3-soplos-zen.
-
 Package: linux-soplos
 Version: 7.0.3
 Architecture: amd64
