@@ -1,47 +1,75 @@
-# 📦 Repositorio APT
+# Soplos Kernels
 
-Repositorio de paquetes APT
+[![License: GPL-3.0+](https://img.shields.io/badge/License-GPL--3.0%2B-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
-## 🛠️ Instalación
+Pre-compiled Linux kernels for Soplos Linux, optimized for different use cases.
 
-### 1️⃣ Añadir la clave GPG
-```bash
-# Descargar e instalar la clave GPG
-sudo mkdir -p /usr/share/keyrings
-wget -qO - https://raw.githubusercontent.com/SoplosLinux/soplos-kernels/main/public.key | sudo gpg --dearmor -o /usr/share/keyrings/soplos-kernels.gpg
-```
+## Available Kernels
 
-### 2️⃣ Añadir el repositorio
+| Package | Description | Patches |
+| :--- | :--- | :--- |
+| `linux-soplos` | Standard Soplos Linux kernel | — |
+| `linux-soplos-bore` | Optimized for gaming and low latency | BORE |
+| `linux-soplos-bore-ntsync` | Optimized for gaming and low latency with Wine/Proton support | BORE, NTSYNC |
+| `linux-soplos-zen` | Optimized for desktop and gaming | Zen |
+| `linux-soplos-ntsync` | Improved Wine/Proton compatibility | NTSYNC |
+| `linux-soplos-rt` | Full real-time preemption for audio/video production | PREEMPT_RT |
 
-```bash
-# Añadir la fuente APT
-echo "deb [signed-by=/usr/share/keyrings/soplos-kernels.gpg trusted=yes] https://github.com/SoplosLinux/soplos-kernels/raw/refs/heads/main/ stable main" | sudo tee /etc/apt/sources.list.d/soplos-kernels.list
+## Installation
 
-# Actualizar índices
-sudo apt update --allow-insecure-repositories
-```
-
-### 3️⃣ Instalar paquetes
+Add the Soplos kernels repository:
 
 ```bash
-sudo apt install nombre-del-paquete
+curl -fsSL https://raw.githubusercontent.com/SoplosLinux/soplos-kernels/main/soplos-kernels.gpg | sudo tee /usr/share/keyrings/soplos-kernels.gpg > /dev/null
+
+echo "deb [signed-by=/usr/share/keyrings/soplos-kernels.gpg] https://raw.githubusercontent.com/SoplosLinux/soplos-kernels/main stable main" | sudo tee /etc/apt/sources.list.d/soplos-kernels.list
+
+sudo apt update
 ```
 
-## 🔍 Buscar paquetes disponibles
-Para ver todos los paquetes disponibles:
+Install a kernel:
 
 ```bash
-apt search soplos-kernels
+# Standard kernel
+sudo apt install linux-soplos
+
+# BORE kernel
+sudo apt install linux-soplos-bore
+
+# BORE + NTSYNC kernel
+sudo apt install linux-soplos-bore-ntsync
+
+# Zen kernel
+sudo apt install linux-soplos-zen
+
+# NTSYNC kernel
+sudo apt install linux-soplos-ntsync
+
+# Real-time kernel (PREEMPT_RT)
+sudo apt install linux-soplos-rt
 ```
 
-## 🔗 Links útiles
+## Updates
 
-- [🌐 Sitio web](https://soplos.org)
-- [📚 Documentación](https://soplos.org/wiki)
-- [💬 Foro](https://soplos.org/forums)
+Kernels are distributed as metapackages. When a new version is released, a simple `sudo apt upgrade` will update the kernel automatically.
 
-## 🤝 Contribuir
-¿Encontraste un error o tienes una sugerencia? ¡Abre un issue!
+## Compatibility
 
-## 📝 Licencia
-Este repositorio está bajo la licencia GPL-3.0.
+Compatible with all Soplos Linux distributions:
+- Soplos Tyron
+- Soplos Tyson
+- Soplos Boro
+
+## Build Tool
+
+These kernels are compiled using [Soplos Kernel Installer](https://github.com/SoplosLinux/soplos-kernel-installer), the official graphical kernel manager for Soplos Linux.
+
+## Developer
+
+Developed by Sergi Perich
+Website: https://soplos.org
+Contact: info@soploslinux.com
+
+## License
+
+Licensed under [GPL-3.0+](https://www.gnu.org/licenses/gpl-3.0.html).
