@@ -251,20 +251,3 @@ Description: Soplos Ntsync kernel
  When a new version is released, upgrading this package will
  automatically pull in the new kernel.
 
-Package: linux-soplos-zen
-Version: 7.0.3
-Architecture: amd64
-Maintainer: Soplos Linux Team <info@soplos.org>
-Depends: linux-image-7.0.3-soplos-zen, linux-headers-7.0.3-soplos-zen
-Priority: optional
-Section: kernel
-Filename: pool/main/l/linux-soplos-zen/linux-soplos-zen_7.0.3_amd64.deb
-Size: 816
-SHA256: a4ddf151f0eec55124579463b5e3d177534569b35711781e69f36fe71d98d617
-SHA1: e9e3670d13d9a8880e123871c9b5618545ebf7aa
-MD5sum: fdc7499440b6fd8fd21bf22cb29e99e0
-Description: Soplos ZEN kernel
- Installs the 7.0.3-soplos-zen kernel and its headers.
- When a new version is released, upgrading this package will
- automatically pull in the new kernel.
-
