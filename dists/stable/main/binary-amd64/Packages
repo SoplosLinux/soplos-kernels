@@ -112,6 +112,44 @@ Description: Linux kernel headers for 7.0.3-zen1-soplos-zen on amd64
  .
  This is useful for people who need to build external modules
 
+Package: linux-headers-7.0.5-soplos
+Source: linux-upstream
+Version: 1
+Architecture: amd64
+Maintainer: soplos <soplos@soplos-vmware201>
+Installed-Size: 57828
+Homepage: https://www.kernel.org/
+Priority: optional
+Section: kernel
+Filename: pool/main/l/linux-upstream/linux-headers-7.0.5-soplos_1_amd64.deb
+Size: 9700044
+SHA256: 872d168b14abefa5bcb7ccea2ea139ae492d98d4e443f5566e7fce7097c24a1f
+SHA1: 7a65b703d4171d441c97cff1f692b09ebc029dff
+MD5sum: 75bc540a2bf802e77bab0ecf4c0c38c5
+Description: Linux kernel headers for 7.0.5-soplos on amd64
+ This package provides kernel header files for 7.0.5-soplos on amd64
+ .
+ This is useful for people who need to build external modules
+
+Package: linux-headers-7.0.5-soplos-bore
+Source: linux-upstream
+Version: 1
+Architecture: amd64
+Maintainer: soplos <soplos@soplos-vmware201>
+Installed-Size: 57830
+Homepage: https://www.kernel.org/
+Priority: optional
+Section: kernel
+Filename: pool/main/l/linux-upstream/linux-headers-7.0.5-soplos-bore_1_amd64.deb
+Size: 9702000
+SHA256: 8249b93a284fe94354c78b5ac456e1b855a1f6344a85545d57f743dca85da7e8
+SHA1: 52bde45557aeafe3630775a908bb89b664ddd96f
+MD5sum: dac9d488a63cd54ed6ba613a5a7b7099
+Description: Linux kernel headers for 7.0.5-soplos-bore on amd64
+ This package provides kernel header files for 7.0.5-soplos-bore on amd64
+ .
+ This is useful for people who need to build external modules
+
 Package: linux-image-7.0.3-soplos
 Source: linux-upstream
 Version: 1
@@ -220,37 +258,73 @@ Description: Linux kernel, version 7.0.3-zen1-soplos-zen
  This package contains the Linux kernel, modules and corresponding other
  files, version: 7.0.3-zen1-soplos-zen.
 
-Package: linux-soplos
-Version: 7.0.3
+Package: linux-image-7.0.5-soplos
+Source: linux-upstream
+Version: 1
 Architecture: amd64
-Maintainer: Soplos Linux Team <info@soplos.org>
-Depends: linux-image-7.0.3-soplos, linux-headers-7.0.3-soplos
+Maintainer: soplos <soplos@soplos-vmware201>
+Installed-Size: 105611
+Homepage: https://www.kernel.org/
 Priority: optional
 Section: kernel
-Filename: pool/main/l/linux-soplos/linux-soplos_7.0.3_amd64.deb
+Filename: pool/main/l/linux-upstream/linux-image-7.0.5-soplos_1_amd64.deb
+Size: 92496976
+SHA256: b7fd4a0542b973062288d781fd78efeffcb5b482b495d065ffd6e2b255a2512c
+SHA1: 6e085c3c5248905b34be8f8b4633d93bf9e142c6
+MD5sum: bf8697b7217d114f6124bf878e341e50
+Description: Linux kernel, version 7.0.5-soplos
+ This package contains the Linux kernel, modules and corresponding other
+ files, version: 7.0.5-soplos.
+
+Package: linux-image-7.0.5-soplos-bore
+Source: linux-upstream
+Version: 1
+Architecture: amd64
+Maintainer: soplos <soplos@soplos-vmware201>
+Installed-Size: 105622
+Homepage: https://www.kernel.org/
+Priority: optional
+Section: kernel
+Filename: pool/main/l/linux-upstream/linux-image-7.0.5-soplos-bore_1_amd64.deb
+Size: 92506248
+SHA256: b3b969b75a4d621b055a21ea2d8af2195a90bda2a9dc97eb4955bdd410bc819e
+SHA1: 19e5addbdd8d6472e9c8da8361bdf82861e3759d
+MD5sum: bc4bb575f9cc95cc509a1d75a7433102
+Description: Linux kernel, version 7.0.5-soplos-bore
+ This package contains the Linux kernel, modules and corresponding other
+ files, version: 7.0.5-soplos-bore.
+
+Package: linux-soplos
+Version: 7.0.5
+Architecture: amd64
+Maintainer: Soplos Linux Team <info@soplos.org>
+Depends: linux-image-7.0.5-soplos, linux-headers-7.0.5-soplos
+Priority: optional
+Section: kernel
+Filename: pool/main/l/linux-soplos/linux-soplos_7.0.5_amd64.deb
 Size: 812
-SHA256: 564e36f35b6cb031657160da5edf1a5142c3c5848283ca71e6c7e49ecd615290
-SHA1: 3e39f868b17af9a6da48a76d60339864f83b1d98
-MD5sum: 6efb08d24d0a01ba833826df383369c4
+SHA256: f4e098a54da002c83c2e827bd7b3f58861c41316017ca91af4edcad369c955be
+SHA1: b738da6347edb1b7b54504cfb93114b47e793365
+MD5sum: 965706012a454a2f7f14b4c1977f1c45
 Description: Soplos Stock kernel
- Installs the 7.0.3-soplos kernel and its headers.
+ Installs the 7.0.5-soplos kernel and its headers.
  When a new version is released, upgrading this package will
  automatically pull in the new kernel.
 
 Package: linux-soplos-bore
-Version: 7.0.3
+Version: 7.0.5
 Architecture: amd64
 Maintainer: Soplos Linux Team <info@soplos.org>
-Depends: linux-image-7.0.3-soplos-bore, linux-headers-7.0.3-soplos-bore
+Depends: linux-image-7.0.5-soplos-bore, linux-headers-7.0.5-soplos-bore
 Priority: optional
 Section: kernel
-Filename: pool/main/l/linux-soplos-bore/linux-soplos-bore_7.0.3_amd64.deb
+Filename: pool/main/l/linux-soplos-bore/linux-soplos-bore_7.0.5_amd64.deb
 Size: 820
-SHA256: 6312c333ffc652f69963858a634f5d872c823e99119cbe73c2b061f96e4bc083
-SHA1: 2c33943341bd773444547c13c9ca4ffe59ec1eff
-MD5sum: d339a0645eab82386bc3d924e1836fe9
+SHA256: cc18fd8b78fdd3db17031634cd5b8b44d26d591f88168dfb7dd6d9b5b38c58cb
+SHA1: 72da2eca649b11a0b7ae13027be71cfe16d406ac
+MD5sum: 0cb92a31fb9c52ee8f50979f3884a70e
 Description: Soplos BORE kernel
- Installs the 7.0.3-soplos-bore kernel and its headers.
+ Installs the 7.0.5-soplos-bore kernel and its headers.
  When a new version is released, upgrading this package will
  automatically pull in the new kernel.
 
