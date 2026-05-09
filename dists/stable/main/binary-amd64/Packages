@@ -93,25 +93,6 @@ Description: Linux kernel headers for 7.0.5-soplos-rt on amd64
  .
  This is useful for people who need to build external modules
 
-Package: linux-headers-7.0.5-zen1-soplos-zen
-Source: linux-upstream
-Version: 1
-Architecture: amd64
-Maintainer: soplos <soplos@soplos-vmware201>
-Installed-Size: 57839
-Homepage: https://www.kernel.org/
-Priority: optional
-Section: kernel
-Filename: pool/main/l/linux-upstream/linux-headers-7.0.5-zen1-soplos-zen_1_amd64.deb
-Size: 9702540
-SHA256: 1d733c5cf612759208ecaf2183ddff91900907ac342635e65743fa08282e5bc4
-SHA1: 587566d85211fd4926bf9493de8f3c2693634114
-MD5sum: ddcceb3a9e1b41e2571548a21ced962b
-Description: Linux kernel headers for 7.0.5-zen1-soplos-zen on amd64
- This package provides kernel header files for 7.0.5-zen1-soplos-zen on amd64
- .
- This is useful for people who need to build external modules
-
 Package: linux-image-7.0.5-soplos
 Source: linux-upstream
 Version: 1
