@@ -1,20 +1,3 @@
-Package: linux-soplos-ntsync
-Version: 7.0.3
-Architecture: amd64
-Maintainer: Soplos Linux Team <info@soplos.org>
-Depends: linux-image-7.0.3-soplos-ntsync, linux-headers-7.0.3-soplos-ntsync
-Priority: optional
-Section: kernel
-Filename: pool/main/l/linux-soplos-ntsync/linux-soplos-ntsync_7.0.3_amd64.deb
-Size: 820
-SHA256: 603e2cc4e305c2c429157bb32f032908e24f4ec62113ac87da9cd6b1b8b1c723
-SHA1: ce553426b5c8a18f0cdf4ef9237a611c24e0d35f
-MD5sum: 7fd7d09731a3f2d906e348dd4f9b6519
-Description: Soplos Ntsync kernel
- Installs the 7.0.3-soplos-ntsync kernel and its headers.
- When a new version is released, upgrading this package will
- automatically pull in the new kernel.
-
 Package: linux-soplos-rt
 Version: 7.0.3
 Architecture: amd64
