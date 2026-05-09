@@ -268,20 +268,3 @@ Description: Soplos RT kernel
  When a new version is released, upgrading this package will
  automatically pull in the new kernel.
 
-Package: linux-soplos-zen
-Version: 7.0.5
-Architecture: amd64
-Maintainer: Soplos Linux Team <info@soplos.org>
-Depends: linux-image-7.0.5-soplos-zen, linux-headers-7.0.5-soplos-zen
-Priority: optional
-Section: kernel
-Filename: pool/main/l/linux-soplos-zen/linux-soplos-zen_7.0.5_amd64.deb
-Size: 820
-SHA256: a7110c41dbe3d0c95db4c3ddb041e0f517bcb703b2a1d24be93d8dd50cbcaaa8
-SHA1: 1b2a1f2c549c63f633d3bcbde8f1646b01cb3b2b
-MD5sum: 55d61ada227570ec9acfc9f84d556ccc
-Description: Soplos ZEN kernel
- Installs the 7.0.5-soplos-zen kernel and its headers.
- When a new version is released, upgrading this package will
- automatically pull in the new kernel.
-
