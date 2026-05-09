@@ -183,24 +183,6 @@ Description: Linux kernel, version 7.0.5-soplos-rt
  This package contains the Linux kernel, modules and corresponding other
  files, version: 7.0.5-soplos-rt.
 
-Package: linux-image-7.0.5-zen1-soplos-zen
-Source: linux-upstream
-Version: 1
-Architecture: amd64
-Maintainer: soplos <soplos@soplos-vmware201>
-Installed-Size: 105422
-Homepage: https://www.kernel.org/
-Priority: optional
-Section: kernel
-Filename: pool/main/l/linux-upstream/linux-image-7.0.5-zen1-soplos-zen_1_amd64.deb
-Size: 92352964
-SHA256: 98a6ed424ebe0ac4e024d65c4890e4487c2bc1e7c6b6da269a98ba83763b048f
-SHA1: 2032e492d1e45710cb6147ca39b0037bccc799a8
-MD5sum: 7a3b688a1769272a10e3f949e623e5da
-Description: Linux kernel, version 7.0.5-zen1-soplos-zen
- This package contains the Linux kernel, modules and corresponding other
- files, version: 7.0.5-zen1-soplos-zen.
-
 Package: linux-soplos
 Version: 7.0.5
 Architecture: amd64
