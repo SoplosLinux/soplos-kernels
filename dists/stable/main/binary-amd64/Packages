@@ -93,6 +93,25 @@ Description: Linux kernel headers for 7.0.5-soplos-rt on amd64
  .
  This is useful for people who need to build external modules
 
+Package: linux-headers-7.0.5-zen1-soplos-zen
+Source: linux-upstream
+Version: 1
+Architecture: amd64
+Maintainer: soplos <soplos@soplos-vmware201>
+Installed-Size: 57843
+Homepage: https://www.kernel.org/
+Priority: optional
+Section: kernel
+Filename: pool/main/l/linux-upstream/linux-headers-7.0.5-zen1-soplos-zen_1_amd64.deb
+Size: 9703440
+SHA256: 8a72f177bd513b654fc7b59e20e429a40d01e5f1b7723ca990c220a96f672035
+SHA1: 11fb3dbb60602e6064b32ec2f947ac9939641398
+MD5sum: 96605330a35e38da6c236f1587c2a9ab
+Description: Linux kernel headers for 7.0.5-zen1-soplos-zen on amd64
+ This package provides kernel header files for 7.0.5-zen1-soplos-zen on amd64
+ .
+ This is useful for people who need to build external modules
+
 Package: linux-image-7.0.5-soplos
 Source: linux-upstream
 Version: 1
@@ -183,6 +202,24 @@ Description: Linux kernel, version 7.0.5-soplos-rt
  This package contains the Linux kernel, modules and corresponding other
  files, version: 7.0.5-soplos-rt.
 
+Package: linux-image-7.0.5-zen1-soplos-zen
+Source: linux-upstream
+Version: 1
+Architecture: amd64
+Maintainer: soplos <soplos@soplos-vmware201>
+Installed-Size: 105550
+Homepage: https://www.kernel.org/
+Priority: optional
+Section: kernel
+Filename: pool/main/l/linux-upstream/linux-image-7.0.5-zen1-soplos-zen_1_amd64.deb
+Size: 92475028
+SHA256: 35b347f6aa3d3a783e0c0265e5ea4ed80695fe76e975abe1525fd11908b034e7
+SHA1: c5fd2097ed70e6fb126e4679d1cda92ab5ff6aed
+MD5sum: fe854992c494e7c2cce9b85a9294dd3b
+Description: Linux kernel, version 7.0.5-zen1-soplos-zen
+ This package contains the Linux kernel, modules and corresponding other
+ files, version: 7.0.5-zen1-soplos-zen.
+
 Package: linux-soplos
 Version: 7.0.5
 Architecture: amd64
@@ -265,6 +302,23 @@ SHA1: eca9f1ed81eb13cc4ae03627d3d4303064649bfd
 MD5sum: 8c2deed369c0c1f8e4f68d76ddeab3b9
 Description: Soplos RT kernel
  Installs the 7.0.5-soplos-rt kernel and its headers.
+ When a new version is released, upgrading this package will
+ automatically pull in the new kernel.
+
+Package: linux-soplos-zen
+Version: 7.0.5
+Architecture: amd64
+Maintainer: Soplos Linux Team <info@soplos.org>
+Depends: linux-image-7.0.5-zen1-soplos-zen, linux-headers-7.0.5-zen1-soplos-zen
+Priority: optional
+Section: kernel
+Filename: pool/main/l/linux-soplos-zen/linux-soplos-zen_7.0.5_amd64.deb
+Size: 820
+SHA256: b13951a49cd0e634638a7b5c2177ddec629f16e029c5ce62afb5c1f4e29c8231
+SHA1: f93eb291f2b4997935f10a6ce3cb1ccfa927f366
+MD5sum: ffe34bd3fc702f51573d160357cbabf9
+Description: Soplos ZEN kernel
+ Installs the 7.0.5-zen1-soplos-zen kernel and its headers.
  When a new version is released, upgrading this package will
  automatically pull in the new kernel.
 
