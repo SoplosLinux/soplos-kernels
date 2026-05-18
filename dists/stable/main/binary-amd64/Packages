@@ -111,24 +111,6 @@ Description: Linux kernel, version 7.0.5-soplos
  This package contains the Linux kernel, modules and corresponding other
  files, version: 7.0.5-soplos.
 
-Package: linux-image-7.0.5-soplos-bore
-Source: linux-upstream
-Version: 1
-Architecture: amd64
-Maintainer: soplos <soplos@soplos-vmware201>
-Installed-Size: 105622
-Homepage: https://www.kernel.org/
-Priority: optional
-Section: kernel
-Filename: pool/main/l/linux-upstream/linux-image-7.0.5-soplos-bore_1_amd64.deb
-Size: 92506248
-SHA256: b3b969b75a4d621b055a21ea2d8af2195a90bda2a9dc97eb4955bdd410bc819e
-SHA1: 19e5addbdd8d6472e9c8da8361bdf82861e3759d
-MD5sum: bc4bb575f9cc95cc509a1d75a7433102
-Description: Linux kernel, version 7.0.5-soplos-bore
- This package contains the Linux kernel, modules and corresponding other
- files, version: 7.0.5-soplos-bore.
-
 Package: linux-image-7.0.5-soplos-bore-ntsync
 Source: linux-upstream
 Version: 1
