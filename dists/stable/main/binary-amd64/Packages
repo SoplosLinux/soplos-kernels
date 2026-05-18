@@ -87,23 +87,6 @@ Description: Soplos BORE kernel
  When a new version is released, upgrading this package will
  automatically pull in the new kernel.
 
-Package: linux-soplos-bore-ntsync
-Version: 7.0.5
-Architecture: amd64
-Maintainer: Soplos Linux Team <info@soplos.org>
-Depends: linux-image-7.0.5-soplos-bore-ntsync, linux-headers-7.0.5-soplos-bore-ntsync
-Priority: optional
-Section: kernel
-Filename: pool/main/l/linux-soplos-bore-ntsync/linux-soplos-bore-ntsync_7.0.5_amd64.deb
-Size: 828
-SHA256: 5e88bd616456126a79cbda526104ee4344b79abe31167cc69f4d8a3b54006900
-SHA1: 6c1767e62fbbbbdefcdf9d039e3123521ac87e2e
-MD5sum: a1671309d4e9efb1a6fc36267a0e985f
-Description: Soplos Bore Ntsync kernel
- Installs the 7.0.5-soplos-bore-ntsync kernel and its headers.
- When a new version is released, upgrading this package will
- automatically pull in the new kernel.
-
 Package: linux-soplos-rt
 Version: 7.0.5
 Architecture: amd64
