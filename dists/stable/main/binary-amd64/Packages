@@ -17,25 +17,6 @@ Description: Linux kernel headers for 7.0.5-soplos on amd64
  .
  This is useful for people who need to build external modules
 
-Package: linux-headers-7.0.5-soplos-bore
-Source: linux-upstream
-Version: 1
-Architecture: amd64
-Maintainer: soplos <soplos@soplos-vmware201>
-Installed-Size: 57830
-Homepage: https://www.kernel.org/
-Priority: optional
-Section: kernel
-Filename: pool/main/l/linux-upstream/linux-headers-7.0.5-soplos-bore_1_amd64.deb
-Size: 9702000
-SHA256: 8249b93a284fe94354c78b5ac456e1b855a1f6344a85545d57f743dca85da7e8
-SHA1: 52bde45557aeafe3630775a908bb89b664ddd96f
-MD5sum: dac9d488a63cd54ed6ba613a5a7b7099
-Description: Linux kernel headers for 7.0.5-soplos-bore on amd64
- This package provides kernel header files for 7.0.5-soplos-bore on amd64
- .
- This is useful for people who need to build external modules
-
 Package: linux-headers-7.0.5-soplos-bore-ntsync
 Source: linux-upstream
 Version: 1
