@@ -17,24 +17,6 @@ Description: Linux kernel headers for 7.0.5-soplos on amd64
  .
  This is useful for people who need to build external modules
 
-Package: linux-image-7.0.5-soplos-ntsync
-Source: linux-upstream
-Version: 1
-Architecture: amd64
-Maintainer: soplos <soplos@soplos-vmware201>
-Installed-Size: 105620
-Homepage: https://www.kernel.org/
-Priority: optional
-Section: kernel
-Filename: pool/main/l/linux-upstream/linux-image-7.0.5-soplos-ntsync_1_amd64.deb
-Size: 92515348
-SHA256: d090b589f53746e4ad1bdf5f8675a118a0eeaa871f94d634a1507b959a45bca4
-SHA1: 585573d2a7784e4ff7ee7cb5d0d9813ed3b16fe7
-MD5sum: b19fc3a96d178e971d35663b7c17fa37
-Description: Linux kernel, version 7.0.5-soplos-ntsync
- This package contains the Linux kernel, modules and corresponding other
- files, version: 7.0.5-soplos-ntsync.
-
 Package: linux-image-7.0.5-zen1-soplos-zen
 Source: linux-upstream
 Version: 1
