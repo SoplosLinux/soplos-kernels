@@ -15,20 +15,3 @@ Description: Soplos Stock kernel
  When a new version is released, upgrading this package will
  automatically pull in the new kernel.
 
-Package: linux-soplos-rt
-Version: 7.0.5
-Architecture: amd64
-Maintainer: Soplos Linux Team <info@soplos.org>
-Depends: linux-image-7.0.5-soplos-rt, linux-headers-7.0.5-soplos-rt
-Priority: optional
-Section: kernel
-Filename: pool/main/l/linux-soplos-rt/linux-soplos-rt_7.0.5_amd64.deb
-Size: 816
-SHA256: 6b149efae898f64529cf80db080007dc248c99b436fd21f11eded03b7b97c061
-SHA1: eca9f1ed81eb13cc4ae03627d3d4303064649bfd
-MD5sum: 8c2deed369c0c1f8e4f68d76ddeab3b9
-Description: Soplos RT kernel
- Installs the 7.0.5-soplos-rt kernel and its headers.
- When a new version is released, upgrading this package will
- automatically pull in the new kernel.
-
