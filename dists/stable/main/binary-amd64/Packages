@@ -33,23 +33,6 @@ Description: Soplos Stock kernel
  When a new version is released, upgrading this package will
  automatically pull in the new kernel.
 
-Package: linux-soplos-bore
-Version: 7.0.5
-Architecture: amd64
-Maintainer: Soplos Linux Team <info@soplos.org>
-Depends: linux-image-7.0.5-soplos-bore, linux-headers-7.0.5-soplos-bore
-Priority: optional
-Section: kernel
-Filename: pool/main/l/linux-soplos-bore/linux-soplos-bore_7.0.5_amd64.deb
-Size: 820
-SHA256: cc18fd8b78fdd3db17031634cd5b8b44d26d591f88168dfb7dd6d9b5b38c58cb
-SHA1: 72da2eca649b11a0b7ae13027be71cfe16d406ac
-MD5sum: 0cb92a31fb9c52ee8f50979f3884a70e
-Description: Soplos BORE kernel
- Installs the 7.0.5-soplos-bore kernel and its headers.
- When a new version is released, upgrading this package will
- automatically pull in the new kernel.
-
 Package: linux-soplos-rt
 Version: 7.0.5
 Architecture: amd64
