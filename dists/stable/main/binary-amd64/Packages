@@ -377,20 +377,3 @@ Description: Soplos ZEN V1 kernel
  When a new version is released, upgrading this package will
  automatically pull in the new kernel.
 
-Package: linux-soplos-zen-v3
-Version: 7.2.2
-Architecture: amd64
-Maintainer: Soplos Linux Team <info@soplos.org>
-Depends: linux-image-7.2.2-zen1-soplos-zen-v3, linux-headers-7.2.2-zen1-soplos-zen-v3
-Priority: optional
-Section: kernel
-Filename: pool/main/l/linux-soplos-zen-v3/linux-soplos-zen-v3_7.2.2_amd64.deb
-Size: 828
-SHA256: 966753bbc10fb63baad8e058d5e91c65cdd5fa00c7f91403a3472a2bbff5d7fa
-SHA1: 0b5d0be5a974852a81621293b30265d32f813874
-MD5sum: bb3ccad4090a39ee1b4b3f65a40b3ae5
-Description: Soplos ZEN V3 kernel
- Installs the 7.2.2-zen1-soplos-zen-v3 kernel and its headers.
- When a new version is released, upgrading this package will
- automatically pull in the new kernel.
-
