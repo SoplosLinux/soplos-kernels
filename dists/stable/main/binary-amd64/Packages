@@ -35,23 +35,6 @@ Description: Linux kernel, version 7.2.2-soplos-v3
  This package contains the Linux kernel, modules and corresponding other
  files, version: 7.2.2-soplos-v3.
 
-Package: linux-soplos-rt-v1
-Version: 7.2.2
-Architecture: amd64
-Maintainer: Soplos Linux Team <info@soplos.org>
-Depends: linux-image-7.2.2-soplos-rt-v1, linux-headers-7.2.2-soplos-rt-v1
-Priority: optional
-Section: kernel
-Filename: pool/main/l/linux-soplos-rt-v1/linux-soplos-rt-v1_7.2.2_amd64.deb
-Size: 820
-SHA256: 034fc12201c3413967732c729e749bde0b3dd746ca76f487fd8b4b73e2748477
-SHA1: 0a73d36b9be3f76d75f92b94d83589ba8bfc2c65
-MD5sum: de0fca42f039c21339135a49a16965ce
-Description: Soplos RT V1 kernel
- Installs the 7.2.2-soplos-rt-v1 kernel and its headers.
- When a new version is released, upgrading this package will
- automatically pull in the new kernel.
-
 Package: linux-soplos-v1
 Version: 7.2.2
 Architecture: amd64
