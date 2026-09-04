@@ -17,24 +17,6 @@ Description: Linux kernel headers for 7.2.2-zen1-soplos-zen-v1 on amd64
  .
  This is useful for people who need to build external modules
 
-Package: linux-image-7.2.2-soplos-v3
-Source: linux-upstream
-Version: 1
-Architecture: amd64
-Maintainer: soplos <soplos@soplos-vmware201>
-Installed-Size: 106710
-Homepage: https://www.kernel.org/
-Priority: optional
-Section: kernel
-Filename: pool/main/l/linux-upstream/linux-image-7.2.2-soplos-v3_1_amd64.deb
-Size: 93005992
-SHA256: e034e282d7457924956ef149ba45f8a4a6bc9ee04ea89eed4b504af201ec5aeb
-SHA1: 5576c59f5b1943c4f6154325a7669e3d020c722c
-MD5sum: 40e75c619c272ff2c705e8f59ddee274
-Description: Linux kernel, version 7.2.2-soplos-v3
- This package contains the Linux kernel, modules and corresponding other
- files, version: 7.2.2-soplos-v3.
-
 Package: linux-soplos-v1
 Version: 7.2.2
 Architecture: amd64
