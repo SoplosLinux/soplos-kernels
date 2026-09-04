@@ -17,24 +17,6 @@ Description: Linux kernel headers for 7.2.2-zen1-soplos-zen-v1 on amd64
  .
  This is useful for people who need to build external modules
 
-Package: linux-image-7.2.2-soplos-bore-ntsync-v3
-Source: linux-upstream
-Version: 1
-Architecture: amd64
-Maintainer: soplos <soplos@soplos-vmware201>
-Installed-Size: 106729
-Homepage: https://www.kernel.org/
-Priority: optional
-Section: kernel
-Filename: pool/main/l/linux-upstream/linux-image-7.2.2-soplos-bore-ntsync-v3_1_amd64.deb
-Size: 93016320
-SHA256: b87050962ba5bbe2aa69ad4972f1bf1137d2f514119a0230ad32017cf2df6784
-SHA1: 16644b65e80c5f492773ffdc095a38c638204a28
-MD5sum: 9b99a163a3bf2290b484188fb56dd934
-Description: Linux kernel, version 7.2.2-soplos-bore-ntsync-v3
- This package contains the Linux kernel, modules and corresponding other
- files, version: 7.2.2-soplos-bore-ntsync-v3.
-
 Package: linux-image-7.2.2-soplos-v3
 Source: linux-upstream
 Version: 1
