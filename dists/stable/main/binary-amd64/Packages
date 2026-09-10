@@ -313,24 +313,6 @@ Description: Linux kernel, version 7.2.4-zen2-soplos-zen-v1
  This package contains the Linux kernel, modules and corresponding other
  files, version: 7.2.4-zen2-soplos-zen-v1.
 
-Package: linux-image-7.2.4-zen2-soplos-zen-v3
-Source: linux-upstream
-Version: 1
-Architecture: amd64
-Maintainer: soplos <soplos@soplos-vmware201>
-Installed-Size: 107765
-Homepage: https://www.kernel.org/
-Priority: optional
-Section: kernel
-Filename: pool/main/l/linux-upstream/linux-image-7.2.4-zen2-soplos-zen-v3_1_amd64.deb
-Size: 94197892
-SHA256: 7f7eb1db58a113f9a256ec25dc6c7b066d7bcba322b63b3224a414bb6d0bf783
-SHA1: 79e7e2c32a8ba3ea7d8de33c21868adf3f56bb56
-MD5sum: 9ba411df932bde37d5fc310e6c436286
-Description: Linux kernel, version 7.2.4-zen2-soplos-zen-v3
- This package contains the Linux kernel, modules and corresponding other
- files, version: 7.2.4-zen2-soplos-zen-v3.
-
 Package: linux-soplos-bore-ntsync-v1
 Version: 7.2.4
 Architecture: amd64
