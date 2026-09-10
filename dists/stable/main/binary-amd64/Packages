@@ -203,24 +203,6 @@ Description: Linux kernel, version 7.2.3-soplos-v1
  This package contains the Linux kernel, modules and corresponding other
  files, version: 7.2.3-soplos-v1.
 
-Package: linux-image-7.2.3-soplos-v3
-Source: linux-upstream
-Version: 1
-Architecture: amd64
-Maintainer: soplos <soplos@soplos-vmware201>
-Installed-Size: 106717
-Homepage: https://www.kernel.org/
-Priority: optional
-Section: kernel
-Filename: pool/main/l/linux-upstream/linux-image-7.2.3-soplos-v3_1_amd64.deb
-Size: 93002044
-SHA256: f59ecc4ac13afbffc884cbfe700e7ff04e4ee65e69de9a33cbe0a129a6f45057
-SHA1: 00f6a76cc7715f031b467f8cae58977974f1ffbf
-MD5sum: 9a9bb7affe7db44c9920bf0d6d0c65f5
-Description: Linux kernel, version 7.2.3-soplos-v3
- This package contains the Linux kernel, modules and corresponding other
- files, version: 7.2.3-soplos-v3.
-
 Package: linux-image-7.2.3-soplos-x3d-v3
 Source: linux-upstream
 Version: 1
