@@ -55,25 +55,6 @@ Description: Linux kernel headers for 7.2.4-soplos-rt-v3 on amd64
  .
  This is useful for people who need to build external modules
 
-Package: linux-headers-7.2.4-soplos-x3d-v3
-Source: linux-upstream
-Version: 1
-Architecture: amd64
-Maintainer: soplos <soplos@soplos-vmware201>
-Installed-Size: 59223
-Homepage: https://www.kernel.org/
-Priority: optional
-Section: kernel
-Filename: pool/main/l/linux-upstream/linux-headers-7.2.4-soplos-x3d-v3_1_amd64.deb
-Size: 9895832
-SHA256: 3928e48fadec4bdca96add4fa79daecc29f8e289369bda09929b08bdd524d6f6
-SHA1: 2177ce7b66e1ac81f4f05ca5e51d50a7ec78d03f
-MD5sum: 08644e00c584a3d7fdfc343267d77cf5
-Description: Linux kernel headers for 7.2.4-soplos-x3d-v3 on amd64
- This package provides kernel header files for 7.2.4-soplos-x3d-v3 on amd64
- .
- This is useful for people who need to build external modules
-
 Package: linux-headers-7.2.4-zen2-soplos-zen-v1
 Source: linux-upstream
 Version: 1
