@@ -164,23 +164,6 @@ Description: Linux kernel, version 7.2.3-zen1-soplos-zen-v1
  This package contains the Linux kernel, modules and corresponding other
  files, version: 7.2.3-zen1-soplos-zen-v1.
 
-Package: linux-soplos-bore-ntsync-v1
-Version: 7.2.3
-Architecture: amd64
-Maintainer: Soplos Linux Team <info@soplos.org>
-Depends: linux-image-7.2.3-soplos-bore-ntsync-v1, linux-headers-7.2.3-soplos-bore-ntsync-v1
-Priority: optional
-Section: kernel
-Filename: pool/main/l/linux-soplos-bore-ntsync-v1/linux-soplos-bore-ntsync-v1_7.2.3_amd64.deb
-Size: 832
-SHA256: b98d923ea0d8a67a2f3cf13f53da2c31ca04209e74e3ec2a5ab1a6baf09965c6
-SHA1: 0533438de919bb32155200b4270e40b86eb06e88
-MD5sum: a83abb0ec3b428036c0945957e05c40d
-Description: Soplos Bore Ntsync V1 kernel
- Installs the 7.2.3-soplos-bore-ntsync-v1 kernel and its headers.
- When a new version is released, upgrading this package will
- automatically pull in the new kernel.
-
 Package: linux-soplos-bore-ntsync-v3
 Version: 7.2.3
 Architecture: amd64
