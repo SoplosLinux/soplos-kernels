@@ -179,20 +179,3 @@ Description: Soplos Stock V1 kernel
  When a new version is released, upgrading this package will
  automatically pull in the new kernel.
 
-Package: linux-soplos-v3
-Version: 7.2.3
-Architecture: amd64
-Maintainer: Soplos Linux Team <info@soplos.org>
-Depends: linux-image-7.2.3-soplos-v3, linux-headers-7.2.3-soplos-v3
-Priority: optional
-Section: kernel
-Filename: pool/main/l/linux-soplos-v3/linux-soplos-v3_7.2.3_amd64.deb
-Size: 824
-SHA256: ece47e018926735fa69d939af0af65f0a38d7c10bfd4193debf9515f6778374e
-SHA1: b70f5302339f672395d1079d7bfebada97f942df
-MD5sum: c4bbb1cf7c2031afcbd62e0313a1b140
-Description: Soplos Stock V3 kernel
- Installs the 7.2.3-soplos-v3 kernel and its headers.
- When a new version is released, upgrading this package will
- automatically pull in the new kernel.
-
