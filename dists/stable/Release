@@ -3,25 +3,25 @@ Label: SoplosLinux
 Suite: stable
 Codename: stable
 Version: 1.0
-Date: Thu, 10 Sep 2026 12:26:28 UTC
+Date: Thu, 10 Sep 2026 12:26:31 UTC
 Architectures: amd64
 Components: main
 Description: Repositorio de SoplosLinux
 MD5Sum:
- 44327bad0a98bb7be233b7901efeb0cf 12279 main/binary-amd64/Packages
- 7dee36db9a7c4995f27c342870b40500 2675 main/binary-amd64/Packages.gz
+ c36549a09067687864342459341ea9ab 11595 main/binary-amd64/Packages
+ 529afd82911b0354460444a84a8f1413 2562 main/binary-amd64/Packages.gz
  ca5e942ddd4b78e48c213d3216e830af 144 main/binary-amd64/Release
- f0f00a513fceaf7dfbbf2ec445eaf625 8441033 main/Contents-amd64
- 769385eedd5228d6e4b88711af66e3cf 452150 main/Contents-amd64.gz
+ 8147dbf48e341f2bfd68cb06f896f40d 7599546 main/Contents-amd64
+ e38f6ba18216c658f14fa3da1c06e9d7 404941 main/Contents-amd64.gz
 SHA1:
- 7f921415ce83f508633d3cf3641f7890e115e650 12279 main/binary-amd64/Packages
- 06d31a2c9719e0826a79d5d4919292c363388355 2675 main/binary-amd64/Packages.gz
+ 275a11b7c4994af7194e62ba3a0f5be218d66adf 11595 main/binary-amd64/Packages
+ 43622e5d2f0961cc7f26ebae24edc452b402590a 2562 main/binary-amd64/Packages.gz
  a2dfe29c3f8057aeb00a7f2d8547589ad430832d 144 main/binary-amd64/Release
- d3e65c1688f4b6db763df9af5f7da17160b5a10d 8441033 main/Contents-amd64
- 4ed807af842ef3b559afbbe707ee7463f9ffdb95 452150 main/Contents-amd64.gz
+ 73bd05ad13c9fc61a8d751f822c8b5077a4b03fa 7599546 main/Contents-amd64
+ a152b52293575d0319c6535cd1ce1b3d1aba6745 404941 main/Contents-amd64.gz
 SHA256:
- d51ce5ca72f90667d9aa9e9803b442409a78af6fbf2c0901a9fdf4164c8f0f16 12279 main/binary-amd64/Packages
- ca7405e4af29a36417f42d66479d86f7364f7b9197044f3a2011512404768816 2675 main/binary-amd64/Packages.gz
+ 7c87188bd9c5b5052f987b8268ae4c38c14a296e905f3b814d7deb58575f2537 11595 main/binary-amd64/Packages
+ d96b33a3b6b71b6c3711a729ec92545c9507bd1b00b36e5cd68c8d91c9c42b94 2562 main/binary-amd64/Packages.gz
  730e7f0c6581a39b0d66c97a1238d989f6e66df12fce1b1ecafe2dfbe5074384 144 main/binary-amd64/Release
- 82e1b3d729b78a452c0d23ae792fcf71c32c04d918d8a37be6fd44bfe362d415 8441033 main/Contents-amd64
- 29230e841c05f6a2b0b27b613d9c9af05d99bbda3308d40918833453ca3b704d 452150 main/Contents-amd64.gz
+ 27bb462ac0538fee7368fd99e3ff5900074ac69ba9b459f16bfee1d3697ddebc 7599546 main/Contents-amd64
+ 9403cb7b2d635d8a5f727e89ac5599853d2e2c078a68b05bd78a7dcaf837e005 404941 main/Contents-amd64.gz
