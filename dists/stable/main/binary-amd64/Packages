@@ -127,23 +127,6 @@ Description: Linux kernel, version 7.2.4-soplos-x3d-v3
  This package contains the Linux kernel, modules and corresponding other
  files, version: 7.2.4-soplos-x3d-v3.
 
-Package: linux-soplos-bore-ntsync-v3
-Version: 7.2.4
-Architecture: amd64
-Maintainer: Soplos Linux Team <info@soplos.org>
-Depends: linux-image-7.2.4-soplos-bore-ntsync-v3, linux-headers-7.2.4-soplos-bore-ntsync-v3
-Priority: optional
-Section: kernel
-Filename: pool/main/l/linux-soplos-bore-ntsync-v3/linux-soplos-bore-ntsync-v3_7.2.4_amd64.deb
-Size: 836
-SHA256: 7dfa39311a4175809e59c116be6a43e3d8aec9be8991e3307d877ac169f3bcee
-SHA1: e0facd90b463758d4417380fdc7ee463c81c1d7d
-MD5sum: f67c0d720158b080d7328fcca8086358
-Description: Soplos Bore Ntsync V3 kernel
- Installs the 7.2.4-soplos-bore-ntsync-v3 kernel and its headers.
- When a new version is released, upgrading this package will
- automatically pull in the new kernel.
-
 Package: linux-soplos-rt-v1
 Version: 7.2.4
 Architecture: amd64
