@@ -229,20 +229,3 @@ Description: Soplos X3D V3 kernel
  When a new version is released, upgrading this package will
  automatically pull in the new kernel.
 
-Package: linux-soplos-zen-v1
-Version: 7.2.4
-Architecture: amd64
-Maintainer: Soplos Linux Team <info@soplos.org>
-Depends: linux-image-7.2.4-zen2-soplos-zen-v1, linux-headers-7.2.4-zen2-soplos-zen-v1
-Priority: optional
-Section: kernel
-Filename: pool/main/l/linux-soplos-zen-v1/linux-soplos-zen-v1_7.2.4_amd64.deb
-Size: 832
-SHA256: af64526fe9f34858e6930fdafac78352601ca3d9896abd6fe43aea6840adc172
-SHA1: 85dd1f61cecde533b4113a688061686cae103dfb
-MD5sum: 289562dbded5298dd5ee2bb3024f1635
-Description: Soplos ZEN V1 kernel
- Installs the 7.2.4-zen2-soplos-zen-v1 kernel and its headers.
- When a new version is released, upgrading this package will
- automatically pull in the new kernel.
-
