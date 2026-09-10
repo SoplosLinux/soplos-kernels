@@ -364,23 +364,6 @@ Description: Soplos RT V1 kernel
  When a new version is released, upgrading this package will
  automatically pull in the new kernel.
 
-Package: linux-soplos-rt-v3
-Version: 7.2.4
-Architecture: amd64
-Maintainer: Soplos Linux Team <info@soplos.org>
-Depends: linux-image-7.2.4-soplos-rt-v3, linux-headers-7.2.4-soplos-rt-v3
-Priority: optional
-Section: kernel
-Filename: pool/main/l/linux-soplos-rt-v3/linux-soplos-rt-v3_7.2.4_amd64.deb
-Size: 820
-SHA256: de050dc5c472b9d3d75b9df42429b63f91367bb4222d943bb5f11f34c4771bf8
-SHA1: b63019d0485e87d76fc8815f15f6f734a32fbf14
-MD5sum: 1be7a092c04669df5181bb57c9d43704
-Description: Soplos RT V3 kernel
- Installs the 7.2.4-soplos-rt-v3 kernel and its headers.
- When a new version is released, upgrading this package will
- automatically pull in the new kernel.
-
 Package: linux-soplos-v1
 Version: 7.2.4
 Architecture: amd64
