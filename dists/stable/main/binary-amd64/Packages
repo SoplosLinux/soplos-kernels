@@ -54,24 +54,6 @@ Description: Linux kernel, version 7.2.3-soplos-bore-ntsync-v1
  This package contains the Linux kernel, modules and corresponding other
  files, version: 7.2.3-soplos-bore-ntsync-v1.
 
-Package: linux-image-7.2.3-soplos-rt-v1
-Source: linux-upstream
-Version: 1
-Architecture: amd64
-Maintainer: soplos <soplos@soplos-vmware201>
-Installed-Size: 104692
-Homepage: https://www.kernel.org/
-Priority: optional
-Section: kernel
-Filename: pool/main/l/linux-upstream/linux-image-7.2.3-soplos-rt-v1_1_amd64.deb
-Size: 91085588
-SHA256: b049ca30ec25de2f016af2885d656c1a67d7d7c48bb434cc9b98edb99f7fbcfe
-SHA1: ee6e0a13f23575c31f5dce4555ebe9e3b7b2ed32
-MD5sum: 61f04118df3dcf928a215dbd90c2d23d
-Description: Linux kernel, version 7.2.3-soplos-rt-v1
- This package contains the Linux kernel, modules and corresponding other
- files, version: 7.2.3-soplos-rt-v1.
-
 Package: linux-image-7.2.3-soplos-v1
 Source: linux-upstream
 Version: 1
