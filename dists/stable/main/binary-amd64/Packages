@@ -55,6 +55,25 @@ Description: Linux kernel headers for 7.2.5-soplos-bore-ntsync-v3 on amd64
  .
  This is useful for people who need to build external modules
 
+Package: linux-headers-7.2.5-soplos-bore-ntsync-v4
+Source: linux-upstream
+Version: 1
+Architecture: amd64
+Maintainer: soplos <soplos@soplos-vmware201>
+Installed-Size: 59216
+Homepage: https://www.kernel.org/
+Priority: optional
+Section: kernel
+Filename: pool/main/l/linux-upstream/linux-headers-7.2.5-soplos-bore-ntsync-v4_1_amd64.deb
+Size: 9901464
+SHA256: 26912cb147d2c955cf1eefe6f6a5e1692624028ce4c7a86329161b46d66c406c
+SHA1: 7999cfc63653ba9dab79249d62088c2790eb9f0c
+MD5sum: 4b07e63db568039f0af6bb9594ba2916
+Description: Linux kernel headers for 7.2.5-soplos-bore-ntsync-v4 on amd64
+ This package provides kernel header files for 7.2.5-soplos-bore-ntsync-v4 on amd64
+ .
+ This is useful for people who need to build external modules
+
 Package: linux-headers-7.2.5-soplos-rt-v1
 Source: linux-upstream
 Version: 1
@@ -109,6 +128,25 @@ SHA1: 12851bc61aeb173da70ed34b634f0e8c1157f262
 MD5sum: 1a2ea0b93543b8df2e7281e49b35139a
 Description: Linux kernel headers for 7.2.5-soplos-rt-v3 on amd64
  This package provides kernel header files for 7.2.5-soplos-rt-v3 on amd64
+ .
+ This is useful for people who need to build external modules
+
+Package: linux-headers-7.2.5-soplos-rt-v4
+Source: linux-upstream
+Version: 1
+Architecture: amd64
+Maintainer: soplos <soplos@soplos-vmware201>
+Installed-Size: 59198
+Homepage: https://www.kernel.org/
+Priority: optional
+Section: kernel
+Filename: pool/main/l/linux-upstream/linux-headers-7.2.5-soplos-rt-v4_1_amd64.deb
+Size: 9894632
+SHA256: b8b1e2d95bd93c61814026c61ff9dc96abd0e9d097c23fdb90c8a41b896a7706
+SHA1: dba0098de2d29de5adc2fe3308167d7d441d676d
+MD5sum: 5798a40ce9d8dff1cd8965d5e4867445
+Description: Linux kernel headers for 7.2.5-soplos-rt-v4 on amd64
+ This package provides kernel header files for 7.2.5-soplos-rt-v4 on amd64
  .
  This is useful for people who need to build external modules
 
@@ -169,6 +207,25 @@ Description: Linux kernel headers for 7.2.5-soplos-v3 on amd64
  .
  This is useful for people who need to build external modules
 
+Package: linux-headers-7.2.5-soplos-v4
+Source: linux-upstream
+Version: 1
+Architecture: amd64
+Maintainer: soplos <soplos@soplos-vmware201>
+Installed-Size: 59214
+Homepage: https://www.kernel.org/
+Priority: optional
+Section: kernel
+Filename: pool/main/l/linux-upstream/linux-headers-7.2.5-soplos-v4_1_amd64.deb
+Size: 9895204
+SHA256: 52af1df3a8840f1bd2b41f707703c9765bea44def652feb23918e9b896830af9
+SHA1: 8038d0c8a7a3a50d22b5630a250a3f6c6e6c936f
+MD5sum: e6cde30eebf0bb512019487e14c89c9c
+Description: Linux kernel headers for 7.2.5-soplos-v4 on amd64
+ This package provides kernel header files for 7.2.5-soplos-v4 on amd64
+ .
+ This is useful for people who need to build external modules
+
 Package: linux-headers-7.2.5-soplos-x3d-v3
 Source: linux-upstream
 Version: 1
@@ -185,6 +242,25 @@ SHA1: 03feef13b4713b6355ddc77d1ac649c018116cc9
 MD5sum: 83ecdcfaeebcf839cad40d40e8ae35e3
 Description: Linux kernel headers for 7.2.5-soplos-x3d-v3 on amd64
  This package provides kernel header files for 7.2.5-soplos-x3d-v3 on amd64
+ .
+ This is useful for people who need to build external modules
+
+Package: linux-headers-7.2.5-soplos-x3d-v4
+Source: linux-upstream
+Version: 1
+Architecture: amd64
+Maintainer: soplos <soplos@soplos-vmware201>
+Installed-Size: 59226
+Homepage: https://www.kernel.org/
+Priority: optional
+Section: kernel
+Filename: pool/main/l/linux-upstream/linux-headers-7.2.5-soplos-x3d-v4_1_amd64.deb
+Size: 9896860
+SHA256: 0094975fc94751426c05f842f64f47214f839418a836378df2a35c97bb0e44fa
+SHA1: 20fb1f566666ab1c0ac08af9875404f227e29d36
+MD5sum: cd75a01b83e9fcfbdebe838fd5400152
+Description: Linux kernel headers for 7.2.5-soplos-x3d-v4 on amd64
+ This package provides kernel header files for 7.2.5-soplos-x3d-v4 on amd64
  .
  This is useful for people who need to build external modules
 
@@ -245,6 +321,25 @@ Description: Linux kernel headers for 7.2.5-soplos-zen-v3 on amd64
  .
  This is useful for people who need to build external modules
 
+Package: linux-headers-7.2.5-soplos-zen-v4
+Source: linux-upstream
+Version: 1
+Architecture: amd64
+Maintainer: soplos <soplos@soplos-vmware201>
+Installed-Size: 59214
+Homepage: https://www.kernel.org/
+Priority: optional
+Section: kernel
+Filename: pool/main/l/linux-upstream/linux-headers-7.2.5-soplos-zen-v4_1_amd64.deb
+Size: 9895988
+SHA256: ff4e066f5fd7763ad7d6d7947790b90183a1d45558bf96e5ba9e023b04ce6f73
+SHA1: 0ec80962ff716eccfc2d77b848bf8f76f6b3dc9a
+MD5sum: 97230f6053ccbcadbfd768ad1b9fabdb
+Description: Linux kernel headers for 7.2.5-soplos-zen-v4 on amd64
+ This package provides kernel header files for 7.2.5-soplos-zen-v4 on amd64
+ .
+ This is useful for people who need to build external modules
+
 Package: linux-image-7.2.5-soplos-bore-ntsync-v1
 Source: linux-upstream
 Version: 1
@@ -298,6 +393,24 @@ MD5sum: fa039383c7fd97901183af2bf46a2371
 Description: Linux kernel, version 7.2.5-soplos-bore-ntsync-v3
  This package contains the Linux kernel, modules and corresponding other
  files, version: 7.2.5-soplos-bore-ntsync-v3.
+
+Package: linux-image-7.2.5-soplos-bore-ntsync-v4
+Source: linux-upstream
+Version: 1
+Architecture: amd64
+Maintainer: soplos <soplos@soplos-vmware201>
+Installed-Size: 108104
+Homepage: https://www.kernel.org/
+Priority: optional
+Section: kernel
+Filename: pool/main/l/linux-upstream/linux-image-7.2.5-soplos-bore-ntsync-v4_1_amd64.deb
+Size: 94455760
+SHA256: ad70eaabb7e738e85d96ea78aaa9b3e4368e20ca03c43693fcf4dcf2cb20adcc
+SHA1: 365924beec563e37a1bd3bffefc1997d7df17da7
+MD5sum: 93e3020f90852aceb3fff80ae6292b77
+Description: Linux kernel, version 7.2.5-soplos-bore-ntsync-v4
+ This package contains the Linux kernel, modules and corresponding other
+ files, version: 7.2.5-soplos-bore-ntsync-v4.
 
 Package: linux-image-7.2.5-soplos-rt-v1
 Source: linux-upstream
@@ -353,6 +466,24 @@ Description: Linux kernel, version 7.2.5-soplos-rt-v3
  This package contains the Linux kernel, modules and corresponding other
  files, version: 7.2.5-soplos-rt-v3.
 
+Package: linux-image-7.2.5-soplos-rt-v4
+Source: linux-upstream
+Version: 1
+Architecture: amd64
+Maintainer: soplos <soplos@soplos-vmware201>
+Installed-Size: 105963
+Homepage: https://www.kernel.org/
+Priority: optional
+Section: kernel
+Filename: pool/main/l/linux-upstream/linux-image-7.2.5-soplos-rt-v4_1_amd64.deb
+Size: 92380312
+SHA256: c0fd0f37311c7dc4d8ad24b844f7033eb803e49839cd036fae2ed92c907e3f45
+SHA1: dc102cf8aeb025766e1d428d6b4b4dfc64ed48f4
+MD5sum: 218692fc803e4e33c79410ee68b55b4b
+Description: Linux kernel, version 7.2.5-soplos-rt-v4
+ This package contains the Linux kernel, modules and corresponding other
+ files, version: 7.2.5-soplos-rt-v4.
+
 Package: linux-image-7.2.5-soplos-v1
 Source: linux-upstream
 Version: 1
@@ -407,6 +538,24 @@ Description: Linux kernel, version 7.2.5-soplos-v3
  This package contains the Linux kernel, modules and corresponding other
  files, version: 7.2.5-soplos-v3.
 
+Package: linux-image-7.2.5-soplos-v4
+Source: linux-upstream
+Version: 1
+Architecture: amd64
+Maintainer: soplos <soplos@soplos-vmware201>
+Installed-Size: 108021
+Homepage: https://www.kernel.org/
+Priority: optional
+Section: kernel
+Filename: pool/main/l/linux-upstream/linux-image-7.2.5-soplos-v4_1_amd64.deb
+Size: 94378272
+SHA256: 6f51e76ccba7ec3785385ad4545a277490d65af259dd6fa5c7b3867d524a5657
+SHA1: 50a990bfe72efebf43bab837d059432b3394e351
+MD5sum: bb058ee3a4fe133a478a53b161949282
+Description: Linux kernel, version 7.2.5-soplos-v4
+ This package contains the Linux kernel, modules and corresponding other
+ files, version: 7.2.5-soplos-v4.
+
 Package: linux-image-7.2.5-soplos-x3d-v3
 Source: linux-upstream
 Version: 1
@@ -424,6 +573,24 @@ MD5sum: 1689a6e6853f4192861dea93857bb866
 Description: Linux kernel, version 7.2.5-soplos-x3d-v3
  This package contains the Linux kernel, modules and corresponding other
  files, version: 7.2.5-soplos-x3d-v3.
+
+Package: linux-image-7.2.5-soplos-x3d-v4
+Source: linux-upstream
+Version: 1
+Architecture: amd64
+Maintainer: soplos <soplos@soplos-vmware201>
+Installed-Size: 108057
+Homepage: https://www.kernel.org/
+Priority: optional
+Section: kernel
+Filename: pool/main/l/linux-upstream/linux-image-7.2.5-soplos-x3d-v4_1_amd64.deb
+Size: 94410864
+SHA256: 10286ac461c5e1213dd671381beddb9f17a581c8985b1f4bb8ebe8d89ebf7b73
+SHA1: ab3e2a28b4b3e5360b8f2a232d693830c8a3215a
+MD5sum: 347424fe3ef04d4b330ff4698e99eed1
+Description: Linux kernel, version 7.2.5-soplos-x3d-v4
+ This package contains the Linux kernel, modules and corresponding other
+ files, version: 7.2.5-soplos-x3d-v4.
 
 Package: linux-image-7.2.5-soplos-zen-v1
 Source: linux-upstream
@@ -479,6 +646,24 @@ Description: Linux kernel, version 7.2.5-soplos-zen-v3
  This package contains the Linux kernel, modules and corresponding other
  files, version: 7.2.5-soplos-zen-v3.
 
+Package: linux-image-7.2.5-soplos-zen-v4
+Source: linux-upstream
+Version: 1
+Architecture: amd64
+Maintainer: soplos <soplos@soplos-vmware201>
+Installed-Size: 108060
+Homepage: https://www.kernel.org/
+Priority: optional
+Section: kernel
+Filename: pool/main/l/linux-upstream/linux-image-7.2.5-soplos-zen-v4_1_amd64.deb
+Size: 94402084
+SHA256: 0f302f35f46a49af3496913cd1608631deab84a08ed30c211f522e812c624dc2
+SHA1: 335b0c13ad670d3b1e2a6bcd91e9f48b6861b92e
+MD5sum: 6bb5523642b82f85722efb4d9b5fec61
+Description: Linux kernel, version 7.2.5-soplos-zen-v4
+ This package contains the Linux kernel, modules and corresponding other
+ files, version: 7.2.5-soplos-zen-v4.
+
 Package: linux-soplos-bore-ntsync-v1
 Version: 7.2.5
 Architecture: amd64
@@ -527,6 +712,23 @@ SHA1: 2f51d3d04a686df06a8f577307ed0a73cf689c02
 MD5sum: 6300756947db354285f1d8dff87a62b1
 Description: Soplos Bore Ntsync V3 kernel
  Installs the 7.2.5-soplos-bore-ntsync-v3 kernel and its headers.
+ When a new version is released, upgrading this package will
+ automatically pull in the new kernel.
+
+Package: linux-soplos-bore-ntsync-v4
+Version: 7.2.5
+Architecture: amd64
+Maintainer: Soplos Linux Team <info@soplos.org>
+Depends: linux-image-7.2.5-soplos-bore-ntsync-v4, linux-headers-7.2.5-soplos-bore-ntsync-v4
+Priority: optional
+Section: kernel
+Filename: pool/main/l/linux-soplos-bore-ntsync-v4/linux-soplos-bore-ntsync-v4_7.2.5_amd64.deb
+Size: 832
+SHA256: 6ab8055a5dfe5020318fb9b6952c8592d8abb0f10563798548035d911141455b
+SHA1: 40c66dda4b8b954d7ec07fea1abe6dad1b941930
+MD5sum: c174ac9d92edb7d1471505a1fdafd279
+Description: Soplos Bore Ntsync V4 kernel
+ Installs the 7.2.5-soplos-bore-ntsync-v4 kernel and its headers.
  When a new version is released, upgrading this package will
  automatically pull in the new kernel.
 
@@ -581,6 +783,23 @@ Description: Soplos RT V3 kernel
  When a new version is released, upgrading this package will
  automatically pull in the new kernel.
 
+Package: linux-soplos-rt-v4
+Version: 7.2.5
+Architecture: amd64
+Maintainer: Soplos Linux Team <info@soplos.org>
+Depends: linux-image-7.2.5-soplos-rt-v4, linux-headers-7.2.5-soplos-rt-v4
+Priority: optional
+Section: kernel
+Filename: pool/main/l/linux-soplos-rt-v4/linux-soplos-rt-v4_7.2.5_amd64.deb
+Size: 820
+SHA256: c09cf3d76654ea60f7536198baf9ba6394013798a6cb51832f9f41f8aab62d48
+SHA1: 2cd55436586caa06a8ec76531444a51366954a3f
+MD5sum: c2d2ba46714490c0f03015ace1123600
+Description: Soplos RT V4 kernel
+ Installs the 7.2.5-soplos-rt-v4 kernel and its headers.
+ When a new version is released, upgrading this package will
+ automatically pull in the new kernel.
+
 Package: linux-soplos-v1
 Version: 7.2.5
 Architecture: amd64
@@ -632,6 +851,23 @@ Description: Soplos Stock V3 kernel
  When a new version is released, upgrading this package will
  automatically pull in the new kernel.
 
+Package: linux-soplos-v4
+Version: 7.2.5
+Architecture: amd64
+Maintainer: Soplos Linux Team <info@soplos.org>
+Depends: linux-image-7.2.5-soplos-v4, linux-headers-7.2.5-soplos-v4
+Priority: optional
+Section: kernel
+Filename: pool/main/l/linux-soplos-v4/linux-soplos-v4_7.2.5_amd64.deb
+Size: 820
+SHA256: 7957cb9d47884d31a2fab2d29d8b09b9316655df41ed1c4df06fd8582c7e5da1
+SHA1: 2c5b532f7658fc2549e0022e6946116c969a8867
+MD5sum: 0d1317b3a4d6b45631d0096520651aba
+Description: Soplos Stock V4 kernel
+ Installs the 7.2.5-soplos-v4 kernel and its headers.
+ When a new version is released, upgrading this package will
+ automatically pull in the new kernel.
+
 Package: linux-soplos-x3d-v3
 Version: 7.2.5
 Architecture: amd64
@@ -646,6 +882,23 @@ SHA1: 0f1080c87319caf5838448758dc4205a68b8c9fe
 MD5sum: 88f67e49572437b7e179f3d6d7a29a91
 Description: Soplos X3D V3 kernel
  Installs the 7.2.5-soplos-x3d-v3 kernel and its headers.
+ When a new version is released, upgrading this package will
+ automatically pull in the new kernel.
+
+Package: linux-soplos-x3d-v4
+Version: 7.2.5
+Architecture: amd64
+Maintainer: Soplos Linux Team <info@soplos.org>
+Depends: linux-image-7.2.5-soplos-x3d-v4, linux-headers-7.2.5-soplos-x3d-v4
+Priority: optional
+Section: kernel
+Filename: pool/main/l/linux-soplos-x3d-v4/linux-soplos-x3d-v4_7.2.5_amd64.deb
+Size: 824
+SHA256: b67e45beac9dddfe7fdbe7636453f877364281d66beed2553fe030486167c394
+SHA1: 8f824511efa93277ce6209091a964ee2075400e4
+MD5sum: 63b3f1cfe882b0fe4ddbf8cd77b80640
+Description: Soplos X3D V4 kernel
+ Installs the 7.2.5-soplos-x3d-v4 kernel and its headers.
  When a new version is released, upgrading this package will
  automatically pull in the new kernel.
 
@@ -697,6 +950,23 @@ SHA1: 359e3f5d9e1580dfa27257183497f7c3c27944f9
 MD5sum: b1e20827147a682f64565ae142df12f3
 Description: Soplos ZEN V3 kernel
  Installs the 7.2.5-soplos-zen-v3 kernel and its headers.
+ When a new version is released, upgrading this package will
+ automatically pull in the new kernel.
+
+Package: linux-soplos-zen-v4
+Version: 7.2.5
+Architecture: amd64
+Maintainer: Soplos Linux Team <info@soplos.org>
+Depends: linux-image-7.2.5-soplos-zen-v4, linux-headers-7.2.5-soplos-zen-v4
+Priority: optional
+Section: kernel
+Filename: pool/main/l/linux-soplos-zen-v4/linux-soplos-zen-v4_7.2.5_amd64.deb
+Size: 824
+SHA256: 5e51b175ac3fbf4932f45f7a706998718b035af8340460b67b4d7d36d091fbb4
+SHA1: f9a671d2e50992c0e303167db60e88014225cca5
+MD5sum: b50d456db73a48695d737ab8cd45d07c
+Description: Soplos ZEN V4 kernel
+ Installs the 7.2.5-soplos-zen-v4 kernel and its headers.
  When a new version is released, upgrading this package will
  automatically pull in the new kernel.
 
