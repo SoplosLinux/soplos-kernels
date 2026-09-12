@@ -1,22 +1,3 @@
-Package: linux-headers-7.2.4-soplos-rt-v1
-Source: linux-upstream
-Version: 2
-Architecture: amd64
-Maintainer: soplos <soplos@soplos-vmware201>
-Installed-Size: 59182
-Homepage: https://www.kernel.org/
-Priority: optional
-Section: kernel
-Filename: pool/main/l/linux-upstream/linux-headers-7.2.4-soplos-rt-v1_2_amd64.deb
-Size: 9894268
-SHA256: 15f55e9debe417d76e6279ede802a96a4afffecd6f03fbf7ab80736de77da939
-SHA1: 52e835b71ad9951d11da7a8eb0e32146bea7c7d1
-MD5sum: 71c8d028177ae0d292c4ea54d5f14188
-Description: Linux kernel headers for 7.2.4-soplos-rt-v1 on amd64
- This package provides kernel header files for 7.2.4-soplos-rt-v1 on amd64
- .
- This is useful for people who need to build external modules
-
 Package: linux-headers-7.2.4-soplos-rt-v3
 Source: linux-upstream
 Version: 2
