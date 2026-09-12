@@ -1,22 +1,3 @@
-Package: linux-headers-7.2.4-soplos-bore-ntsync-v3
-Source: linux-upstream
-Version: 2
-Architecture: amd64
-Maintainer: soplos <soplos@soplos-vmware201>
-Installed-Size: 59213
-Homepage: https://www.kernel.org/
-Priority: optional
-Section: kernel
-Filename: pool/main/l/linux-upstream/linux-headers-7.2.4-soplos-bore-ntsync-v3_2_amd64.deb
-Size: 9900628
-SHA256: f891b4f6c7e8f1bf9beec50a68d7bedf27c658307a1910151315bcc8896ec1e1
-SHA1: e17e9ed4b1d100e222e426f7ecb9a53ed376bdf4
-MD5sum: 27e6ed68bce40c90aa3e10b8df19caff
-Description: Linux kernel headers for 7.2.4-soplos-bore-ntsync-v3 on amd64
- This package provides kernel header files for 7.2.4-soplos-bore-ntsync-v3 on amd64
- .
- This is useful for people who need to build external modules
-
 Package: linux-headers-7.2.4-soplos-rt-v1
 Source: linux-upstream
 Version: 2
