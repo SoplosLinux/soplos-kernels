@@ -35,24 +35,6 @@ Description: Linux kernel, version 7.2.4-soplos-rt-v3
  This package contains the Linux kernel, modules and corresponding other
  files, version: 7.2.4-soplos-rt-v3.
 
-Package: linux-image-7.2.4-soplos-x3d-v3
-Source: linux-upstream
-Version: 2
-Architecture: amd64
-Maintainer: soplos <soplos@soplos-vmware201>
-Installed-Size: 108066
-Homepage: https://www.kernel.org/
-Priority: optional
-Section: kernel
-Filename: pool/main/l/linux-upstream/linux-image-7.2.4-soplos-x3d-v3_2_amd64.deb
-Size: 94408984
-SHA256: d2015e100b950e5816b6d771475789e5dad70406c4fd2d51ca7784d9be4f6bb8
-SHA1: cd4f211dbbe2c31051d850bcb54997f586057b70
-MD5sum: 628753923481b38ed62717649ad84ff0
-Description: Linux kernel, version 7.2.4-soplos-x3d-v3
- This package contains the Linux kernel, modules and corresponding other
- files, version: 7.2.4-soplos-x3d-v3.
-
 Package: linux-soplos-v1
 Version: 7.2.4-2
 Architecture: amd64
