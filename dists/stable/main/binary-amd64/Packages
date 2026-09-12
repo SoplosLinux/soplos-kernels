@@ -195,20 +195,3 @@ Description: Soplos Stock V3 kernel
  When a new version is released, upgrading this package will
  automatically pull in the new kernel.
 
-Package: linux-soplos-x3d-v3
-Version: 7.2.4-2
-Architecture: amd64
-Maintainer: Soplos Linux Team <info@soplos.org>
-Depends: linux-image-7.2.4-soplos-x3d-v3, linux-headers-7.2.4-soplos-x3d-v3
-Priority: optional
-Section: kernel
-Filename: pool/main/l/linux-soplos-x3d-v3/linux-soplos-x3d-v3_7.2.4-2_amd64.deb
-Size: 824
-SHA256: 2ca5cc347a4e8137f161e19aa5edf4e38123366c2e2dcb497b5b665742da0731
-SHA1: e5bb4ea498cf446fa7f808b44e67ced46a4d07d8
-MD5sum: 1bb1a5d09539fea8daac172f2454f70a
-Description: Soplos X3D V3 kernel
- Installs the 7.2.4-soplos-x3d-v3 kernel and its headers.
- When a new version is released, upgrading this package will
- automatically pull in the new kernel.
-
