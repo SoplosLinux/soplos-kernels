@@ -93,6 +93,25 @@ Description: Linux kernel headers for 7.2.9-soplos-bore-ntsync-v1 on amd64
  .
  This is useful for people who need to build external modules
 
+Package: linux-headers-7.2.9-soplos-bore-ntsync-v2
+Source: linux-upstream
+Version: 1
+Architecture: amd64
+Maintainer: soplos <soplos@soplos-vmware201>
+Installed-Size: 59258
+Homepage: https://www.kernel.org/
+Priority: optional
+Section: kernel
+Filename: pool/main/l/linux-upstream/linux-headers-7.2.9-soplos-bore-ntsync-v2_1_amd64.deb
+Size: 9911236
+SHA256: ceb92d086ac053c57ba549ee7e429bf95c66031066ebb12200f404bc0835db19
+SHA1: 57569c4ba70f65581b200b6a61eae70f517706ab
+MD5sum: 9123a06b3feb34ddd41833370fc11260
+Description: Linux kernel headers for 7.2.9-soplos-bore-ntsync-v2 on amd64
+ This package provides kernel header files for 7.2.9-soplos-bore-ntsync-v2 on amd64
+ .
+ This is useful for people who need to build external modules
+
 Package: linux-headers-7.2.9-soplos-rt-v1
 Source: linux-upstream
 Version: 1
@@ -109,6 +128,25 @@ SHA1: 5240dd0651a98ce2ab0fab556dfded05eec8a7e1
 MD5sum: 250af1be6fadd4c687efa18571dd33da
 Description: Linux kernel headers for 7.2.9-soplos-rt-v1 on amd64
  This package provides kernel header files for 7.2.9-soplos-rt-v1 on amd64
+ .
+ This is useful for people who need to build external modules
+
+Package: linux-headers-7.2.9-soplos-rt-v2
+Source: linux-upstream
+Version: 1
+Architecture: amd64
+Maintainer: soplos <soplos@soplos-vmware201>
+Installed-Size: 59246
+Homepage: https://www.kernel.org/
+Priority: optional
+Section: kernel
+Filename: pool/main/l/linux-upstream/linux-headers-7.2.9-soplos-rt-v2_1_amd64.deb
+Size: 9904552
+SHA256: 26f4d194306db51a0b4f27490f687541b96902cf6bbcb0d46c32e569b0adc810
+SHA1: 17488d6aee842646e70b7bb2159886cee8b38eac
+MD5sum: 1a69a43c5d10e322fede69d4e65b368f
+Description: Linux kernel headers for 7.2.9-soplos-rt-v2 on amd64
+ This package provides kernel header files for 7.2.9-soplos-rt-v2 on amd64
  .
  This is useful for people who need to build external modules
 
@@ -131,6 +169,25 @@ Description: Linux kernel headers for 7.2.9-soplos-v1 on amd64
  .
  This is useful for people who need to build external modules
 
+Package: linux-headers-7.2.9-soplos-v2
+Source: linux-upstream
+Version: 1
+Architecture: amd64
+Maintainer: soplos <soplos@soplos-vmware201>
+Installed-Size: 59256
+Homepage: https://www.kernel.org/
+Priority: optional
+Section: kernel
+Filename: pool/main/l/linux-upstream/linux-headers-7.2.9-soplos-v2_1_amd64.deb
+Size: 9904452
+SHA256: a2ecb621903aeb99c8fb276157785df7ea55f15a95f67e03b2b23a3f43a7c77c
+SHA1: 8596631d9e7d4362f9faf24decd9efb20ca3c8b1
+MD5sum: a4fd0388378d5b564659dde8d87c2518
+Description: Linux kernel headers for 7.2.9-soplos-v2 on amd64
+ This package provides kernel header files for 7.2.9-soplos-v2 on amd64
+ .
+ This is useful for people who need to build external modules
+
 Package: linux-headers-7.2.9-zen1-soplos-zen-v1
 Source: linux-upstream
 Version: 1
@@ -147,6 +204,25 @@ SHA1: d7246f6703d8aeeb61f56d5af44e2dd904b2ae0d
 MD5sum: 3b986b17b9bc1885c3571c4cf4087c68
 Description: Linux kernel headers for 7.2.9-zen1-soplos-zen-v1 on amd64
  This package provides kernel header files for 7.2.9-zen1-soplos-zen-v1 on amd64
+ .
+ This is useful for people who need to build external modules
+
+Package: linux-headers-7.2.9-zen1-soplos-zen-v2
+Source: linux-upstream
+Version: 1
+Architecture: amd64
+Maintainer: soplos <soplos@soplos-vmware201>
+Installed-Size: 59485
+Homepage: https://www.kernel.org/
+Priority: optional
+Section: kernel
+Filename: pool/main/l/linux-upstream/linux-headers-7.2.9-zen1-soplos-zen-v2_1_amd64.deb
+Size: 9910712
+SHA256: 03f43aa48f611f9d53c9dc262d7d4253a67855eac619648a5659c7bbf1878b6d
+SHA1: 2f34be62ac5ba268054d3e75c6877ce60e861804
+MD5sum: d7c495b6ea082498f1b9b19c2da89b02
+Description: Linux kernel headers for 7.2.9-zen1-soplos-zen-v2 on amd64
+ This package provides kernel header files for 7.2.9-zen1-soplos-zen-v2 on amd64
  .
  This is useful for people who need to build external modules
 
@@ -240,6 +316,24 @@ Description: Linux kernel, version 7.2.9-soplos-bore-ntsync-v1
  This package contains the Linux kernel, modules and corresponding other
  files, version: 7.2.9-soplos-bore-ntsync-v1.
 
+Package: linux-image-7.2.9-soplos-bore-ntsync-v2
+Source: linux-upstream
+Version: 1
+Architecture: amd64
+Maintainer: soplos <soplos@soplos-vmware201>
+Installed-Size: 108141
+Homepage: https://www.kernel.org/
+Priority: optional
+Section: kernel
+Filename: pool/main/l/linux-upstream/linux-image-7.2.9-soplos-bore-ntsync-v2_1_amd64.deb
+Size: 94595824
+SHA256: 6e41227370537ca5c07c5ed02bd2dc5f81c80d73816ff6e81e525ba514077d5c
+SHA1: e037917ff592f05065936d5d6dd5af466cb26afb
+MD5sum: 87ba566905910d50b538c9e332ede587
+Description: Linux kernel, version 7.2.9-soplos-bore-ntsync-v2
+ This package contains the Linux kernel, modules and corresponding other
+ files, version: 7.2.9-soplos-bore-ntsync-v2.
+
 Package: linux-image-7.2.9-soplos-rt-v1
 Source: linux-upstream
 Version: 1
@@ -257,6 +351,24 @@ MD5sum: da103e5cf7f0770a388f71af24656b35
 Description: Linux kernel, version 7.2.9-soplos-rt-v1
  This package contains the Linux kernel, modules and corresponding other
  files, version: 7.2.9-soplos-rt-v1.
+
+Package: linux-image-7.2.9-soplos-rt-v2
+Source: linux-upstream
+Version: 1
+Architecture: amd64
+Maintainer: soplos <soplos@soplos-vmware201>
+Installed-Size: 107789
+Homepage: https://www.kernel.org/
+Priority: optional
+Section: kernel
+Filename: pool/main/l/linux-upstream/linux-image-7.2.9-soplos-rt-v2_1_amd64.deb
+Size: 94278424
+SHA256: c1a97686c291ffcbc80ab5bd7cb386a21f7d9c28444036c11714815281cd9955
+SHA1: e641964ed46dd6b556af85a4006d70538de99bfe
+MD5sum: cc971a13cae2701a311fbd1ef3b66a86
+Description: Linux kernel, version 7.2.9-soplos-rt-v2
+ This package contains the Linux kernel, modules and corresponding other
+ files, version: 7.2.9-soplos-rt-v2.
 
 Package: linux-image-7.2.9-soplos-v1
 Source: linux-upstream
@@ -276,6 +388,24 @@ Description: Linux kernel, version 7.2.9-soplos-v1
  This package contains the Linux kernel, modules and corresponding other
  files, version: 7.2.9-soplos-v1.
 
+Package: linux-image-7.2.9-soplos-v2
+Source: linux-upstream
+Version: 1
+Architecture: amd64
+Maintainer: soplos <soplos@soplos-vmware201>
+Installed-Size: 108123
+Homepage: https://www.kernel.org/
+Priority: optional
+Section: kernel
+Filename: pool/main/l/linux-upstream/linux-image-7.2.9-soplos-v2_1_amd64.deb
+Size: 94567064
+SHA256: e86bb4d2a771138dc70bd3e6289812f29848438f2374de55e5146e990efca0ba
+SHA1: 628378962d0f78d4249a74ec3326b17dda514d47
+MD5sum: 7312e8d5cc43c9bfc1ab8a9dbc96992f
+Description: Linux kernel, version 7.2.9-soplos-v2
+ This package contains the Linux kernel, modules and corresponding other
+ files, version: 7.2.9-soplos-v2.
+
 Package: linux-image-7.2.9-zen1-soplos-zen-v1
 Source: linux-upstream
 Version: 1
@@ -294,6 +424,24 @@ Description: Linux kernel, version 7.2.9-zen1-soplos-zen-v1
  This package contains the Linux kernel, modules and corresponding other
  files, version: 7.2.9-zen1-soplos-zen-v1.
 
+Package: linux-image-7.2.9-zen1-soplos-zen-v2
+Source: linux-upstream
+Version: 1
+Architecture: amd64
+Maintainer: soplos <soplos@soplos-vmware201>
+Installed-Size: 107926
+Homepage: https://www.kernel.org/
+Priority: optional
+Section: kernel
+Filename: pool/main/l/linux-upstream/linux-image-7.2.9-zen1-soplos-zen-v2_1_amd64.deb
+Size: 94404304
+SHA256: 9dbf92bf1015da22bac9139624066c144f72ed619c3fec11c2dbb42a604774eb
+SHA1: ef527f5c13f5eaf3e48cae826cb8769b362b803e
+MD5sum: 6e84a6dff2ef259ed9eb6bdd1674dbb5
+Description: Linux kernel, version 7.2.9-zen1-soplos-zen-v2
+ This package contains the Linux kernel, modules and corresponding other
+ files, version: 7.2.9-zen1-soplos-zen-v2.
+
 Package: linux-soplos-bore-ntsync-v1
 Version: 7.2.9
 Architecture: amd64
@@ -308,6 +456,23 @@ SHA1: 7b6a9d7c939591773450a4adb804d953212c124a
 MD5sum: ef9f26fa831134094090ed4178967543
 Description: Soplos Bore Ntsync V1 kernel
  Installs the 7.2.9-soplos-bore-ntsync-v1 kernel and its headers.
+ When a new version is released, upgrading this package will
+ automatically pull in the new kernel.
+
+Package: linux-soplos-bore-ntsync-v2
+Version: 7.2.9
+Architecture: amd64
+Maintainer: Soplos Linux Team <info@soplos.org>
+Depends: linux-image-7.2.9-soplos-bore-ntsync-v2, linux-headers-7.2.9-soplos-bore-ntsync-v2
+Priority: optional
+Section: kernel
+Filename: pool/main/l/linux-soplos-bore-ntsync-v2/linux-soplos-bore-ntsync-v2_7.2.9_amd64.deb
+Size: 832
+SHA256: 85009057b1bc765e9eaa4c9aeb478e2e19a5e30e967af3ad97b5ff213a09eae1
+SHA1: 264e1b5476fdbdd43951393a5a1ca7d8336a7a14
+MD5sum: 284954268810e2563c8e1e1e6fe32e0a
+Description: Soplos Bore Ntsync V2 kernel
+ Installs the 7.2.9-soplos-bore-ntsync-v2 kernel and its headers.
  When a new version is released, upgrading this package will
  automatically pull in the new kernel.
 
@@ -396,6 +561,23 @@ Description: Soplos RT V1 kernel
  When a new version is released, upgrading this package will
  automatically pull in the new kernel.
 
+Package: linux-soplos-rt-v2
+Version: 7.2.9
+Architecture: amd64
+Maintainer: Soplos Linux Team <info@soplos.org>
+Depends: linux-image-7.2.9-soplos-rt-v2, linux-headers-7.2.9-soplos-rt-v2
+Priority: optional
+Section: kernel
+Filename: pool/main/l/linux-soplos-rt-v2/linux-soplos-rt-v2_7.2.9_amd64.deb
+Size: 820
+SHA256: 717ec8351f9f304928a99b6986bc7326cb19d7d027d5cfa59c3ca6061f19c97a
+SHA1: ff89eaaa97d64aeebf6e0e5f7607f45699b18eea
+MD5sum: 0a77e1398079dd907605d672cfa6fa14
+Description: Soplos RT V2 kernel
+ Installs the 7.2.9-soplos-rt-v2 kernel and its headers.
+ When a new version is released, upgrading this package will
+ automatically pull in the new kernel.
+
 Package: linux-soplos-v1
 Version: 7.2.9
 Architecture: amd64
@@ -413,6 +595,23 @@ Description: Soplos Stock V1 kernel
  When a new version is released, upgrading this package will
  automatically pull in the new kernel.
 
+Package: linux-soplos-v2
+Version: 7.2.9
+Architecture: amd64
+Maintainer: Soplos Linux Team <info@soplos.org>
+Depends: linux-image-7.2.9-soplos-v2, linux-headers-7.2.9-soplos-v2
+Priority: optional
+Section: kernel
+Filename: pool/main/l/linux-soplos-v2/linux-soplos-v2_7.2.9_amd64.deb
+Size: 816
+SHA256: dee9d900ce8db6be3b1a7f413a0823930fc2d638c50fefc651288a29bc9c2dc6
+SHA1: 1ee995987afa4295f49999f89051dcf4c0e9157f
+MD5sum: 27874acdd8d8277cb11024eaddb27772
+Description: Soplos Stock V2 kernel
+ Installs the 7.2.9-soplos-v2 kernel and its headers.
+ When a new version is released, upgrading this package will
+ automatically pull in the new kernel.
+
 Package: linux-soplos-zen-v1
 Version: 7.2.9
 Architecture: amd64
@@ -427,6 +626,23 @@ SHA1: 683b48de10ef9463f9f73837337ce7511f8ac201
 MD5sum: 477ebeab526d19da5d6d4183a4cd3a83
 Description: Soplos ZEN V1 kernel
  Installs the 7.2.9-zen1-soplos-zen-v1 kernel and its headers.
+ When a new version is released, upgrading this package will
+ automatically pull in the new kernel.
+
+Package: linux-soplos-zen-v2
+Version: 7.2.9
+Architecture: amd64
+Maintainer: Soplos Linux Team <info@soplos.org>
+Depends: linux-image-7.2.9-zen1-soplos-zen-v2, linux-headers-7.2.9-zen1-soplos-zen-v2
+Priority: optional
+Section: kernel
+Filename: pool/main/l/linux-soplos-zen-v2/linux-soplos-zen-v2_7.2.9_amd64.deb
+Size: 828
+SHA256: adc3a64a6d61f814182b680938f3082693e6d882c4c73c453dbe20e1d15de49d
+SHA1: 4e9c8f1ad26150d12aa9f8b8df061513b9b9b1ad
+MD5sum: 40fc0faffd9dfc511b52f53c11ef89ff
+Description: Soplos ZEN V2 kernel
+ Installs the 7.2.9-zen1-soplos-zen-v2 kernel and its headers.
  When a new version is released, upgrading this package will
  automatically pull in the new kernel.
 
