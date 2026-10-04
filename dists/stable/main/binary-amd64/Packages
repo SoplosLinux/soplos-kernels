@@ -1,0 +1,216 @@
+Package: linux-headers-6.18.52-soplos-lts-v1
+Source: linux-upstream
+Version: 1
+Architecture: amd64
+Maintainer: soplos <soplos@soplos-vmware201>
+Installed-Size: 56535
+Homepage: https://www.kernel.org/
+Priority: optional
+Section: kernel
+Filename: pool/main/l/linux-upstream/linux-headers-6.18.52-soplos-lts-v1_1_amd64.deb
+Size: 9561076
+SHA256: 132627440506cfc84193ae4aca894e47449490f6e2c2cf20fe1f8304b3b42236
+SHA1: f205ee5e6886785063a0972d78e89b51dc4a212b
+MD5sum: 18b229a01f2107558682405d82fa03c3
+Description: Linux kernel headers for 6.18.52-soplos-lts-v1 on amd64
+ This package provides kernel header files for 6.18.52-soplos-lts-v1 on amd64
+ .
+ This is useful for people who need to build external modules
+
+Package: linux-headers-6.18.52-soplos-lts-v2
+Source: linux-upstream
+Version: 1
+Architecture: amd64
+Maintainer: soplos <soplos@soplos-vmware201>
+Installed-Size: 56547
+Homepage: https://www.kernel.org/
+Priority: optional
+Section: kernel
+Filename: pool/main/l/linux-upstream/linux-headers-6.18.52-soplos-lts-v2_1_amd64.deb
+Size: 9560864
+SHA256: ef4b11ee96905deb46c1bbc4a9097b7d0434f997dbf57c8d33523cf783a2677c
+SHA1: 462bf663ae2ee3b5eb1ea534147b768d84a2c0e8
+MD5sum: 8e013bfe4c593b3f3ac3c762c479e697
+Description: Linux kernel headers for 6.18.52-soplos-lts-v2 on amd64
+ This package provides kernel header files for 6.18.52-soplos-lts-v2 on amd64
+ .
+ This is useful for people who need to build external modules
+
+Package: linux-headers-6.18.52-soplos-lts-v3
+Source: linux-upstream
+Version: 1
+Architecture: amd64
+Maintainer: soplos <soplos@soplos-vmware201>
+Installed-Size: 56547
+Homepage: https://www.kernel.org/
+Priority: optional
+Section: kernel
+Filename: pool/main/l/linux-upstream/linux-headers-6.18.52-soplos-lts-v3_1_amd64.deb
+Size: 9561680
+SHA256: c8413d0e9176e6b313d778ca8326d06ce2692233f8ac7742ab7dba7cb8b2465c
+SHA1: 3d5050bef41c35aaf248500d6fccee66e7ebee85
+MD5sum: 8591ce1c36b752138c02815c08f68974
+Description: Linux kernel headers for 6.18.52-soplos-lts-v3 on amd64
+ This package provides kernel header files for 6.18.52-soplos-lts-v3 on amd64
+ .
+ This is useful for people who need to build external modules
+
+Package: linux-headers-6.18.52-soplos-lts-v4
+Source: linux-upstream
+Version: 1
+Architecture: amd64
+Maintainer: soplos <soplos@soplos-vmware201>
+Installed-Size: 56547
+Homepage: https://www.kernel.org/
+Priority: optional
+Section: kernel
+Filename: pool/main/l/linux-upstream/linux-headers-6.18.52-soplos-lts-v4_1_amd64.deb
+Size: 9560996
+SHA256: 645e3978001031322ffe06baacd59eb492e31220838cc0bf295f797e848f0d9c
+SHA1: 888eb31fd4be19011971ae08bc1278f7dc513c8b
+MD5sum: d6ee8da253bb70c78f760536b047960b
+Description: Linux kernel headers for 6.18.52-soplos-lts-v4 on amd64
+ This package provides kernel header files for 6.18.52-soplos-lts-v4 on amd64
+ .
+ This is useful for people who need to build external modules
+
+Package: linux-image-6.18.52-soplos-lts-v1
+Source: linux-upstream
+Version: 1
+Architecture: amd64
+Maintainer: soplos <soplos@soplos-vmware201>
+Installed-Size: 105239
+Homepage: https://www.kernel.org/
+Priority: optional
+Section: kernel
+Filename: pool/main/l/linux-upstream/linux-image-6.18.52-soplos-lts-v1_1_amd64.deb
+Size: 92404188
+SHA256: 0dc70defefec4449f1925851427fe4bb469cc64c53e66dae0912ccd44b191e5f
+SHA1: ae3d5f310d13f806e900a404fc37e15fe6ecd4cb
+MD5sum: 21dd81bc0c781c8e165f3aa45864fa7e
+Description: Linux kernel, version 6.18.52-soplos-lts-v1
+ This package contains the Linux kernel, modules and corresponding other
+ files, version: 6.18.52-soplos-lts-v1.
+
+Package: linux-image-6.18.52-soplos-lts-v2
+Source: linux-upstream
+Version: 1
+Architecture: amd64
+Maintainer: soplos <soplos@soplos-vmware201>
+Installed-Size: 105248
+Homepage: https://www.kernel.org/
+Priority: optional
+Section: kernel
+Filename: pool/main/l/linux-upstream/linux-image-6.18.52-soplos-lts-v2_1_amd64.deb
+Size: 92401644
+SHA256: bd0cb28c479d381fdf7414b500d53a71430e3268c898548dda0dcb8c49c3bcbd
+SHA1: 9352ff1493d1a146d2118db01b365d1ccc912a0b
+MD5sum: bd0b4fc9e1578012f6b0dfd8e5e7fc98
+Description: Linux kernel, version 6.18.52-soplos-lts-v2
+ This package contains the Linux kernel, modules and corresponding other
+ files, version: 6.18.52-soplos-lts-v2.
+
+Package: linux-image-6.18.52-soplos-lts-v3
+Source: linux-upstream
+Version: 1
+Architecture: amd64
+Maintainer: soplos <soplos@soplos-vmware201>
+Installed-Size: 105294
+Homepage: https://www.kernel.org/
+Priority: optional
+Section: kernel
+Filename: pool/main/l/linux-upstream/linux-image-6.18.52-soplos-lts-v3_1_amd64.deb
+Size: 92447172
+SHA256: c02bba2f62a6d81a8b5ff2b0923d130127f9364da8d0197d55c49ace2b30b395
+SHA1: ee5d016000d04969ea229296b6fe418457738824
+MD5sum: cae3951c549618142531e499a97bb138
+Description: Linux kernel, version 6.18.52-soplos-lts-v3
+ This package contains the Linux kernel, modules and corresponding other
+ files, version: 6.18.52-soplos-lts-v3.
+
+Package: linux-image-6.18.52-soplos-lts-v4
+Source: linux-upstream
+Version: 1
+Architecture: amd64
+Maintainer: soplos <soplos@soplos-vmware201>
+Installed-Size: 105261
+Homepage: https://www.kernel.org/
+Priority: optional
+Section: kernel
+Filename: pool/main/l/linux-upstream/linux-image-6.18.52-soplos-lts-v4_1_amd64.deb
+Size: 92428584
+SHA256: d8b510061062e407f481ab6fd7a83dafa31aa9b5bc82bd03bb247e746948053f
+SHA1: 3adb21469874093f8597b61b830b547a0a6994a5
+MD5sum: 7d9a56f4dd55ff2f422ce8269f74936a
+Description: Linux kernel, version 6.18.52-soplos-lts-v4
+ This package contains the Linux kernel, modules and corresponding other
+ files, version: 6.18.52-soplos-lts-v4.
+
+Package: linux-soplos-lts-v1
+Version: 6.18.52
+Architecture: amd64
+Maintainer: Soplos Linux Team <info@soplos.org>
+Depends: linux-image-6.18.52-soplos-lts-v1, linux-headers-6.18.52-soplos-lts-v1
+Priority: optional
+Section: kernel
+Filename: pool/main/l/linux-soplos-lts-v1/linux-soplos-lts-v1_6.18.52_amd64.deb
+Size: 824
+SHA256: fb117deb2a2543c9c6f27238302e3be7d8567c61488a73dc66f5c15a1c80c7ca
+SHA1: c713c528cdc54232d3d907b0728737e6a32e84aa
+MD5sum: 536b5da7421a56a9b75d3c728821b3d6
+Description: Soplos LTS V1 kernel
+ Installs the 6.18.52-soplos-lts-v1 kernel and its headers.
+ When a new version is released, upgrading this package will
+ automatically pull in the new kernel.
+
+Package: linux-soplos-lts-v2
+Version: 6.18.52
+Architecture: amd64
+Maintainer: Soplos Linux Team <info@soplos.org>
+Depends: linux-image-6.18.52-soplos-lts-v2, linux-headers-6.18.52-soplos-lts-v2
+Priority: optional
+Section: kernel
+Filename: pool/main/l/linux-soplos-lts-v2/linux-soplos-lts-v2_6.18.52_amd64.deb
+Size: 828
+SHA256: c5944511ce7b2e835e16c3fe6caa40fabe89799805c01af6e96c8a40190cae80
+SHA1: 3578465c094a752cb2f1d0184365cd2687bc3615
+MD5sum: bae2a38b8b7479a1ba18edfbead76db3
+Description: Soplos LTS V2 kernel
+ Installs the 6.18.52-soplos-lts-v2 kernel and its headers.
+ When a new version is released, upgrading this package will
+ automatically pull in the new kernel.
+
+Package: linux-soplos-lts-v3
+Version: 6.18.52
+Architecture: amd64
+Maintainer: Soplos Linux Team <info@soplos.org>
+Depends: linux-image-6.18.52-soplos-lts-v3, linux-headers-6.18.52-soplos-lts-v3
+Priority: optional
+Section: kernel
+Filename: pool/main/l/linux-soplos-lts-v3/linux-soplos-lts-v3_6.18.52_amd64.deb
+Size: 824
+SHA256: b7c44b88f5e348a3931e33998d0e36fa1b7e4c538e4334db78b0f167dcec8b84
+SHA1: 97eb0be7d34e94e861093233e894c56ba0062afa
+MD5sum: 48deedcd783427e1f1502a5bcf1f67e9
+Description: Soplos LTS V3 kernel
+ Installs the 6.18.52-soplos-lts-v3 kernel and its headers.
+ When a new version is released, upgrading this package will
+ automatically pull in the new kernel.
+
+Package: linux-soplos-lts-v4
+Version: 6.18.52
+Architecture: amd64
+Maintainer: Soplos Linux Team <info@soplos.org>
+Depends: linux-image-6.18.52-soplos-lts-v4, linux-headers-6.18.52-soplos-lts-v4
+Priority: optional
+Section: kernel
+Filename: pool/main/l/linux-soplos-lts-v4/linux-soplos-lts-v4_6.18.52_amd64.deb
+Size: 824
+SHA256: 3d9472a835b054f91b6eb9377f1aa5224c7f03b66ef11333c1eb03735647a496
+SHA1: 501268fff657ae3536ee709fbbe7bbdd371aa2e7
+MD5sum: 0bbdc687b100fd39e9fea099cf7f1577
+Description: Soplos LTS V4 kernel
+ Installs the 6.18.52-soplos-lts-v4 kernel and its headers.
+ When a new version is released, upgrading this package will
+ automatically pull in the new kernel.
+
