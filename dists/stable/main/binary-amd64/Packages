@@ -112,6 +112,25 @@ Description: Linux kernel headers for 7.2.11-soplos-bore-ntsync-v2 on amd64
  .
  This is useful for people who need to build external modules
 
+Package: linux-headers-7.2.11-soplos-bore-ntsync-v3
+Source: linux-upstream
+Version: 1
+Architecture: amd64
+Maintainer: soplos <soplos@soplos-vmware201>
+Installed-Size: 59262
+Homepage: https://www.kernel.org/
+Priority: optional
+Section: kernel
+Filename: pool/main/l/linux-upstream/linux-headers-7.2.11-soplos-bore-ntsync-v3_1_amd64.deb
+Size: 9913212
+SHA256: 408d89f338cb33482187f231390b7abd02c2fca1ef9defa17d44e2b0de585cc9
+SHA1: 79da50b8b8bc3213d5d75841c620ed00df043846
+MD5sum: 9eb3b65bab57dc2f525db78be50f5f73
+Description: Linux kernel headers for 7.2.11-soplos-bore-ntsync-v3 on amd64
+ This package provides kernel header files for 7.2.11-soplos-bore-ntsync-v3 on amd64
+ .
+ This is useful for people who need to build external modules
+
 Package: linux-headers-7.2.11-soplos-rt-v1
 Source: linux-upstream
 Version: 1
@@ -147,6 +166,25 @@ SHA1: e751328cd05f7525c1a71cd79e557a134f0a9151
 MD5sum: c29f7c17a8b7580311f4647822cb742c
 Description: Linux kernel headers for 7.2.11-soplos-rt-v2 on amd64
  This package provides kernel header files for 7.2.11-soplos-rt-v2 on amd64
+ .
+ This is useful for people who need to build external modules
+
+Package: linux-headers-7.2.11-soplos-rt-v3
+Source: linux-upstream
+Version: 1
+Architecture: amd64
+Maintainer: soplos <soplos@soplos-vmware201>
+Installed-Size: 59250
+Homepage: https://www.kernel.org/
+Priority: optional
+Section: kernel
+Filename: pool/main/l/linux-upstream/linux-headers-7.2.11-soplos-rt-v3_1_amd64.deb
+Size: 9904932
+SHA256: 17362f3c063b459c0968a06d64d5420a3bd2be6871702774ebad08affddc2860
+SHA1: 37ed1ea7500e308792b0d388c2cc15c871e6f9d9
+MD5sum: c9859744062206944872f27d1be7384b
+Description: Linux kernel headers for 7.2.11-soplos-rt-v3 on amd64
+ This package provides kernel header files for 7.2.11-soplos-rt-v3 on amd64
  .
  This is useful for people who need to build external modules
 
@@ -188,6 +226,44 @@ Description: Linux kernel headers for 7.2.11-soplos-v2 on amd64
  .
  This is useful for people who need to build external modules
 
+Package: linux-headers-7.2.11-soplos-v3
+Source: linux-upstream
+Version: 1
+Architecture: amd64
+Maintainer: soplos <soplos@soplos-vmware201>
+Installed-Size: 59259
+Homepage: https://www.kernel.org/
+Priority: optional
+Section: kernel
+Filename: pool/main/l/linux-upstream/linux-headers-7.2.11-soplos-v3_1_amd64.deb
+Size: 9905100
+SHA256: 6e26956b28cc7a8b30b69bd16ecb6d6f1897498a0d08a35feed59023b20983cd
+SHA1: 913c42b8af0eaa46b09ff7c14b7baec0b3a26227
+MD5sum: fbbd7bf6b22b26df8f10978224f53e98
+Description: Linux kernel headers for 7.2.11-soplos-v3 on amd64
+ This package provides kernel header files for 7.2.11-soplos-v3 on amd64
+ .
+ This is useful for people who need to build external modules
+
+Package: linux-headers-7.2.11-soplos-x3d-v3
+Source: linux-upstream
+Version: 1
+Architecture: amd64
+Maintainer: soplos <soplos@soplos-vmware201>
+Installed-Size: 59272
+Homepage: https://www.kernel.org/
+Priority: optional
+Section: kernel
+Filename: pool/main/l/linux-upstream/linux-headers-7.2.11-soplos-x3d-v3_1_amd64.deb
+Size: 9907008
+SHA256: 619dd1e9f015f750a363cc4ec83d8779f3ce915b38980b4178edab59366dd3a1
+SHA1: 0cd230dfae07ece3919c6ddcc833d2feb9a1134e
+MD5sum: 1e0abb6628656c9c2c4eefcd0506fef9
+Description: Linux kernel headers for 7.2.11-soplos-x3d-v3 on amd64
+ This package provides kernel header files for 7.2.11-soplos-x3d-v3 on amd64
+ .
+ This is useful for people who need to build external modules
+
 Package: linux-headers-7.2.11-zen1-soplos-zen-v1
 Source: linux-upstream
 Version: 1
@@ -223,6 +299,25 @@ SHA1: 7a8a22cf3f4219080093ff076f69fc4fc72b079e
 MD5sum: 1f1d854d6ff8f905c5b8744b395ca570
 Description: Linux kernel headers for 7.2.11-zen1-soplos-zen-v2 on amd64
  This package provides kernel header files for 7.2.11-zen1-soplos-zen-v2 on amd64
+ .
+ This is useful for people who need to build external modules
+
+Package: linux-headers-7.2.11-zen1-soplos-zen-v3
+Source: linux-upstream
+Version: 1
+Architecture: amd64
+Maintainer: soplos <soplos@soplos-vmware201>
+Installed-Size: 59489
+Homepage: https://www.kernel.org/
+Priority: optional
+Section: kernel
+Filename: pool/main/l/linux-upstream/linux-headers-7.2.11-zen1-soplos-zen-v3_1_amd64.deb
+Size: 9911992
+SHA256: 9a3a9dd7ea1b736b01c682f49f9e4dcd8b12ba9c549b4340549dc588e2121df4
+SHA1: 56fe43ac5a8d8c9aaea9274d913b5acac2f682c5
+MD5sum: 0fdc3bde7ccca3bbcebe2839f564abc8
+Description: Linux kernel headers for 7.2.11-zen1-soplos-zen-v3 on amd64
+ This package provides kernel header files for 7.2.11-zen1-soplos-zen-v3 on amd64
  .
  This is useful for people who need to build external modules
 
@@ -334,6 +429,24 @@ Description: Linux kernel, version 7.2.11-soplos-bore-ntsync-v2
  This package contains the Linux kernel, modules and corresponding other
  files, version: 7.2.11-soplos-bore-ntsync-v2.
 
+Package: linux-image-7.2.11-soplos-bore-ntsync-v3
+Source: linux-upstream
+Version: 1
+Architecture: amd64
+Maintainer: soplos <soplos@soplos-vmware201>
+Installed-Size: 108183
+Homepage: https://www.kernel.org/
+Priority: optional
+Section: kernel
+Filename: pool/main/l/linux-upstream/linux-image-7.2.11-soplos-bore-ntsync-v3_1_amd64.deb
+Size: 94640972
+SHA256: 6a4b097c9004dc0822fad9658a3a718aa7b988fd7e63a41c0ed141ab4cc2f370
+SHA1: 1564bd3e8edf6356230469840d57759e563391ee
+MD5sum: 8d038a66a1ef1ae2d2c760ac3b7e0555
+Description: Linux kernel, version 7.2.11-soplos-bore-ntsync-v3
+ This package contains the Linux kernel, modules and corresponding other
+ files, version: 7.2.11-soplos-bore-ntsync-v3.
+
 Package: linux-image-7.2.11-soplos-rt-v1
 Source: linux-upstream
 Version: 1
@@ -369,6 +482,24 @@ MD5sum: 107a4c5101230f75d9ff0a54fb455506
 Description: Linux kernel, version 7.2.11-soplos-rt-v2
  This package contains the Linux kernel, modules and corresponding other
  files, version: 7.2.11-soplos-rt-v2.
+
+Package: linux-image-7.2.11-soplos-rt-v3
+Source: linux-upstream
+Version: 1
+Architecture: amd64
+Maintainer: soplos <soplos@soplos-vmware201>
+Installed-Size: 107870
+Homepage: https://www.kernel.org/
+Priority: optional
+Section: kernel
+Filename: pool/main/l/linux-upstream/linux-image-7.2.11-soplos-rt-v3_1_amd64.deb
+Size: 94360784
+SHA256: f26b066a582662e6eee972bb77b715140644c3a071996d6677f0d87ce4d53bcb
+SHA1: 15712b6d057d05611b59242c5e01bac632b8d008
+MD5sum: 9c47c3f69f783545e70cf0080cb61f78
+Description: Linux kernel, version 7.2.11-soplos-rt-v3
+ This package contains the Linux kernel, modules and corresponding other
+ files, version: 7.2.11-soplos-rt-v3.
 
 Package: linux-image-7.2.11-soplos-v1
 Source: linux-upstream
@@ -406,6 +537,42 @@ Description: Linux kernel, version 7.2.11-soplos-v2
  This package contains the Linux kernel, modules and corresponding other
  files, version: 7.2.11-soplos-v2.
 
+Package: linux-image-7.2.11-soplos-v3
+Source: linux-upstream
+Version: 1
+Architecture: amd64
+Maintainer: soplos <soplos@soplos-vmware201>
+Installed-Size: 108151
+Homepage: https://www.kernel.org/
+Priority: optional
+Section: kernel
+Filename: pool/main/l/linux-upstream/linux-image-7.2.11-soplos-v3_1_amd64.deb
+Size: 94577940
+SHA256: 24855d2694f832be41dddf4cf64416cede42597f94d68f0a290efdd0a9f9766b
+SHA1: 873a458150816c6f7f130c066005c25c366cbb8f
+MD5sum: e1c5dd09f84c77a1b27522232f50ebe3
+Description: Linux kernel, version 7.2.11-soplos-v3
+ This package contains the Linux kernel, modules and corresponding other
+ files, version: 7.2.11-soplos-v3.
+
+Package: linux-image-7.2.11-soplos-x3d-v3
+Source: linux-upstream
+Version: 1
+Architecture: amd64
+Maintainer: soplos <soplos@soplos-vmware201>
+Installed-Size: 108204
+Homepage: https://www.kernel.org/
+Priority: optional
+Section: kernel
+Filename: pool/main/l/linux-upstream/linux-image-7.2.11-soplos-x3d-v3_1_amd64.deb
+Size: 94626396
+SHA256: 58636be3cbd9f5422cddb792f4abd8da57ca5743d8c2f3ad3363de524c5b49a8
+SHA1: 0370a2e2bbe486fa07e5a411c3fff735bee09457
+MD5sum: b1b674d4b71fa67d13170c578c601037
+Description: Linux kernel, version 7.2.11-soplos-x3d-v3
+ This package contains the Linux kernel, modules and corresponding other
+ files, version: 7.2.11-soplos-x3d-v3.
+
 Package: linux-image-7.2.11-zen1-soplos-zen-v1
 Source: linux-upstream
 Version: 1
@@ -442,6 +609,24 @@ Description: Linux kernel, version 7.2.11-zen1-soplos-zen-v2
  This package contains the Linux kernel, modules and corresponding other
  files, version: 7.2.11-zen1-soplos-zen-v2.
 
+Package: linux-image-7.2.11-zen1-soplos-zen-v3
+Source: linux-upstream
+Version: 1
+Architecture: amd64
+Maintainer: soplos <soplos@soplos-vmware201>
+Installed-Size: 107977
+Homepage: https://www.kernel.org/
+Priority: optional
+Section: kernel
+Filename: pool/main/l/linux-upstream/linux-image-7.2.11-zen1-soplos-zen-v3_1_amd64.deb
+Size: 94468584
+SHA256: 47dd131581a1b6f9d097728b06ac53f2df18f0ba76ba4cbef1c5e03e4355a55e
+SHA1: b3837b17f1dff770d8ee78fafb924e07c7e2096d
+MD5sum: cfd6f2dd6b73f072e779a25c116344ed
+Description: Linux kernel, version 7.2.11-zen1-soplos-zen-v3
+ This package contains the Linux kernel, modules and corresponding other
+ files, version: 7.2.11-zen1-soplos-zen-v3.
+
 Package: linux-soplos-bore-ntsync-v1
 Version: 7.2.11
 Architecture: amd64
@@ -473,6 +658,23 @@ SHA1: 3eaeb41e351842c85695fc935a81334d97a31583
 MD5sum: 85449edecc2790bb334f91ffe4d76a89
 Description: Soplos Bore Ntsync V2 kernel
  Installs the 7.2.11-soplos-bore-ntsync-v2 kernel and its headers.
+ When a new version is released, upgrading this package will
+ automatically pull in the new kernel.
+
+Package: linux-soplos-bore-ntsync-v3
+Version: 7.2.11
+Architecture: amd64
+Maintainer: Soplos Linux Team <info@soplos.org>
+Depends: linux-image-7.2.11-soplos-bore-ntsync-v3, linux-headers-7.2.11-soplos-bore-ntsync-v3
+Priority: optional
+Section: kernel
+Filename: pool/main/l/linux-soplos-bore-ntsync-v3/linux-soplos-bore-ntsync-v3_7.2.11_amd64.deb
+Size: 832
+SHA256: 7bfafe84785b5b5dc56e931cc43524654fed952091ed5d731f6cac9f360a4bdd
+SHA1: 0af402395491da4e6be97f9745a95f0f3a74a72e
+MD5sum: 99b52b46ce1702ab95e98486df14f6d6
+Description: Soplos Bore Ntsync V3 kernel
+ Installs the 7.2.11-soplos-bore-ntsync-v3 kernel and its headers.
  When a new version is released, upgrading this package will
  automatically pull in the new kernel.
 
@@ -578,6 +780,23 @@ Description: Soplos RT V2 kernel
  When a new version is released, upgrading this package will
  automatically pull in the new kernel.
 
+Package: linux-soplos-rt-v3
+Version: 7.2.11
+Architecture: amd64
+Maintainer: Soplos Linux Team <info@soplos.org>
+Depends: linux-image-7.2.11-soplos-rt-v3, linux-headers-7.2.11-soplos-rt-v3
+Priority: optional
+Section: kernel
+Filename: pool/main/l/linux-soplos-rt-v3/linux-soplos-rt-v3_7.2.11_amd64.deb
+Size: 820
+SHA256: 1fda9554b3edd84e6e341ddafd6283fcd86825b23f68c45ca79fda0d905f67fd
+SHA1: 29e505d70a03f122d1bbd72fdf39ba647fd24d42
+MD5sum: 33131802c7d441c2502d8a46b51e8253
+Description: Soplos RT V3 kernel
+ Installs the 7.2.11-soplos-rt-v3 kernel and its headers.
+ When a new version is released, upgrading this package will
+ automatically pull in the new kernel.
+
 Package: linux-soplos-v1
 Version: 7.2.11
 Architecture: amd64
@@ -612,6 +831,40 @@ Description: Soplos Stock V2 kernel
  When a new version is released, upgrading this package will
  automatically pull in the new kernel.
 
+Package: linux-soplos-v3
+Version: 7.2.11
+Architecture: amd64
+Maintainer: Soplos Linux Team <info@soplos.org>
+Depends: linux-image-7.2.11-soplos-v3, linux-headers-7.2.11-soplos-v3
+Priority: optional
+Section: kernel
+Filename: pool/main/l/linux-soplos-v3/linux-soplos-v3_7.2.11_amd64.deb
+Size: 816
+SHA256: 06b752c97498c4caa834c47ac975ca6443f1a073843479fe628f52cadabddbba
+SHA1: 7e7efe7af5d8c8e04bae08f6aac41e36a778ea92
+MD5sum: 9758147c47fcc11d3dda654c28b3fb20
+Description: Soplos Stock V3 kernel
+ Installs the 7.2.11-soplos-v3 kernel and its headers.
+ When a new version is released, upgrading this package will
+ automatically pull in the new kernel.
+
+Package: linux-soplos-x3d-v3
+Version: 7.2.11
+Architecture: amd64
+Maintainer: Soplos Linux Team <info@soplos.org>
+Depends: linux-image-7.2.11-soplos-x3d-v3, linux-headers-7.2.11-soplos-x3d-v3
+Priority: optional
+Section: kernel
+Filename: pool/main/l/linux-soplos-x3d-v3/linux-soplos-x3d-v3_7.2.11_amd64.deb
+Size: 824
+SHA256: 7a673a57b2c2f41bc7c0fbcf567692b40e6c79fa7b0646906ee117a2fd1f96a9
+SHA1: 2860a9cea372b4fef74762b300b8705c9c5dfd5d
+MD5sum: 8c596b28ca376b4ee100cfdc33f30f29
+Description: Soplos X3D V3 kernel
+ Installs the 7.2.11-soplos-x3d-v3 kernel and its headers.
+ When a new version is released, upgrading this package will
+ automatically pull in the new kernel.
+
 Package: linux-soplos-zen-v1
 Version: 7.2.11
 Architecture: amd64
@@ -643,6 +896,23 @@ SHA1: 90635ff7ebee7a0c722b25496811ff4951ddc4cf
 MD5sum: 614f4767ea78a05cb7d32dd4ea19d847
 Description: Soplos ZEN V2 kernel
  Installs the 7.2.11-zen1-soplos-zen-v2 kernel and its headers.
+ When a new version is released, upgrading this package will
+ automatically pull in the new kernel.
+
+Package: linux-soplos-zen-v3
+Version: 7.2.11
+Architecture: amd64
+Maintainer: Soplos Linux Team <info@soplos.org>
+Depends: linux-image-7.2.11-zen1-soplos-zen-v3, linux-headers-7.2.11-zen1-soplos-zen-v3
+Priority: optional
+Section: kernel
+Filename: pool/main/l/linux-soplos-zen-v3/linux-soplos-zen-v3_7.2.11_amd64.deb
+Size: 828
+SHA256: 0097e767ea5b16e0a88ea19ef668b54a0c64f17cceb2e477581311b1dc7c3d18
+SHA1: c15e4d3d8770371f8674e4eaeb08c8165c86594a
+MD5sum: f1e3dd317d22e9bb04fe1fc944cebb40
+Description: Soplos ZEN V3 kernel
+ Installs the 7.2.11-zen1-soplos-zen-v3 kernel and its headers.
  When a new version is released, upgrading this package will
  automatically pull in the new kernel.
 
