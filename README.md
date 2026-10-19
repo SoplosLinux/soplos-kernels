@@ -2,7 +2,7 @@
 
 [![License: GPL-3.0+](https://img.shields.io/badge/License-GPL--3.0%2B-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
-Pre-compiled Linux kernels for Soplos Linux, optimized for different use cases.
+Pre-compiled Linux kernels for Soplos Linux, optimized for different use cases. Currently featuring the **Linux 7.3** series and **Linux 6.18 LTS**.
 
 ## Available Kernels
 
@@ -15,7 +15,7 @@ Pre-compiled Linux kernels for Soplos Linux, optimized for different use cases.
 | `linux-soplos-x3d` | Optimized for AMD CPUs with 3D V-Cache (5800X3D, 7800X3D…) | BORE, NTSYNC, X3D |
 | `linux-soplos-lts` | Long-term support kernel line (separate from the main version track) | — |
 
-> Since kernel 7.2.4 (package revision -2), binder support is enabled in every variant, allowing the use of Waydroid.
+> Since kernel 7.2.4 (package revision -2) and continuing in 7.3, binder support is enabled in every variant, allowing the use of Waydroid.
 
 ## Hardware Levels
 
