@@ -1,0 +1,46 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: SoplosLinux
+Label: SoplosLinux
+Suite: stable
+Codename: stable
+Version: 1.0
+Date: Wed, 11 Nov 2026 00:13:03 UTC
+Architectures: amd64
+Components: main
+Description: Repositorio de SoplosLinux
+MD5Sum:
+ d41d8cd98f00b204e9800998ecf8427e 0 main/binary-amd64/Packages
+ 7029066c27ac6f5ef18d660d5741979a 20 main/binary-amd64/Packages.gz
+ ca5e942ddd4b78e48c213d3216e830af 144 main/binary-amd64/Release
+ d41d8cd98f00b204e9800998ecf8427e 0 main/Contents-amd64
+ 7029066c27ac6f5ef18d660d5741979a 20 main/Contents-amd64.gz
+SHA1:
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/binary-amd64/Packages
+ 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/binary-amd64/Packages.gz
+ a2dfe29c3f8057aeb00a7f2d8547589ad430832d 144 main/binary-amd64/Release
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/Contents-amd64
+ 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/Contents-amd64.gz
+SHA256:
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/binary-amd64/Packages
+ 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/binary-amd64/Packages.gz
+ 730e7f0c6581a39b0d66c97a1238d989f6e66df12fce1b1ecafe2dfbe5074384 144 main/binary-amd64/Release
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/Contents-amd64
+ 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/Contents-amd64.gz
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEEFpXDeL+3Y89OIrzYWZLyo7C3fvAFAmrzsw8ACgkQWZLyo7C3
+fvBpwQ/6AyRs+5UY/WT1HSilpFjb27Jd1dgWMQD1EQ+MPfk3cuy6SYNFmh8BlrZ0
+7VhSOiu2CwhN+LfSxi2CLjXSIxDIS18O8IRR5hCX+5n/de8DpFcogHpH8pIWL7w6
+pj6GdsWLz+/vqo1O4Yu0YutjvUgt9l7N1HdtnzRUYBz2CPPGJ9zZYjfW94aQY4Se
+GVGXqehP+ZJdVLPUz2VzCxPo3+O+0+kafbZ8vEiTL+bvuI6EC7q/7wsJu63jllj3
+a61XZ5cq+hYPI8p+wFIFx1LKb0PkEylgQKgLTKve5oxjy0O7HlaEcDm59wsMtCkA
+GQ0K0WaTxNRt+f+FURkEJnx736FuCXU7yozUGKSHkuHbMz4Grz9Z8lMcQYZeAK1C
+84BORoq01NWN8+Bh72bYqRS1vN3W3NoBS1SfL2o5bSvZyJctPj9MkJ5WbzFTZ5/M
+jPWmg5Cq7KY/nYRxX97Q1RvxbwQvcPCbSP4NBviWXYMJgTP++lnPO16eU/jZS17p
+Kc0vMsmSbCuM3oj9cyXkUfa+THHcWPrNbxgGrhtotOYFXE+l6V5k5GO4STXiW1d4
+Q0EWRQX9sF8vL/zEPZVl5jBOJ9EXhov0C/XdTFXx6twmJ+vdcJyhPjLaHRfONuTR
+dxctl9pfmR9aiBqzW2hkBk7I5N14bzylKW13vM2K2gyYQRs6IhA=
+=vUbD
+-----END PGP SIGNATURE-----
