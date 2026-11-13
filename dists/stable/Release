@@ -3,25 +3,25 @@ Label: SoplosLinux
 Suite: stable
 Codename: stable
 Version: 1.0
-Date: Fri, 13 Nov 2026 13:27:50 UTC
+Date: Fri, 13 Nov 2026 13:27:53 UTC
 Architectures: amd64
 Components: main
 Description: Repositorio de SoplosLinux
 MD5Sum:
- 272e34e74c082780fa21573a281dffad 37590 main/binary-amd64/Packages
- a42079f76b4004820dede3987071e313 7003 main/binary-amd64/Packages.gz
+ 72324552e98dddf986488decd87ab75c 36872 main/binary-amd64/Packages
+ 0d14ab5885a0eb7ee0397868e27b622c 6848 main/binary-amd64/Packages.gz
  ca5e942ddd4b78e48c213d3216e830af 144 main/binary-amd64/Release
  3b2be6181addeaf2cc5f6a646ef8b71a 26178814 main/Contents-amd64
  361147ec046a6748e8a30d0943331ee3 1401876 main/Contents-amd64.gz
 SHA1:
- 6efc2b92ecd4963e1a42f115b5a8940367a26195 37590 main/binary-amd64/Packages
- f5b7efa57ab7d39573d872f359792becb05b0458 7003 main/binary-amd64/Packages.gz
+ aa982198384b36db8f52e1fa4e2c9bb499667955 36872 main/binary-amd64/Packages
+ d6c05f47d130c8781a50d6c36ae95a863908d6d3 6848 main/binary-amd64/Packages.gz
  a2dfe29c3f8057aeb00a7f2d8547589ad430832d 144 main/binary-amd64/Release
  f963448faf913eab8dfb09336ff4c32fa05b6a1c 26178814 main/Contents-amd64
  97b6bd1e58634e5839d8fb7c450cbd203da5774b 1401876 main/Contents-amd64.gz
 SHA256:
- 1fee0490e8e8d486f58bf4c25b242b82e2597f030111bb4d4356e565ade6b3cf 37590 main/binary-amd64/Packages
- 69a90545146a2c5d3b353f24db2d29f7e9d2abe0e63c74a1d09d0ec2b1f33f3e 7003 main/binary-amd64/Packages.gz
+ 19f2e05b6ff4e154077db8ca2a9888db340e4101ee52adc6afb2ab90aaff5abc 36872 main/binary-amd64/Packages
+ a56e6efea2327e95968ffd93bdf8b8ac55b0e6692392aed5996cfa608758c167 6848 main/binary-amd64/Packages.gz
  730e7f0c6581a39b0d66c97a1238d989f6e66df12fce1b1ecafe2dfbe5074384 144 main/binary-amd64/Release
  1e58ba766ee770b69dbc5d17e4805a7d09e7776ad2a72781882c88760e2905ec 26178814 main/Contents-amd64
  a7792284cba43a438c0b89bc14a5f61f7bd7e7c57e96234cc644eef34d7a17f7 1401876 main/Contents-amd64.gz
