@@ -17,6 +17,25 @@ Description: Linux kernel headers for 6.18.63-soplos-lts-bore-ntsync-v1 on amd64
  .
  This is useful for people who need to build external modules
 
+Package: linux-headers-6.18.63-soplos-lts-bore-ntsync-v2
+Source: linux-upstream
+Version: 1
+Architecture: amd64
+Maintainer: torke <torke@Tyson>
+Installed-Size: 57118
+Homepage: https://www.kernel.org/
+Priority: optional
+Section: kernel
+Filename: pool/main/l/linux-upstream/linux-headers-6.18.63-soplos-lts-bore-ntsync-v2_1_amd64.deb
+Size: 9761556
+SHA256: 2df996314e00cbe72fc1df18ff80973546f994f1a50c915c008b5ee8ee3232b5
+SHA1: a638e11031759d979dfad1763195008088b726df
+MD5sum: 6470d31d33a54ba4e9ce365998e3f98b
+Description: Linux kernel headers for 6.18.63-soplos-lts-bore-ntsync-v2 on amd64
+ This package provides kernel header files for 6.18.63-soplos-lts-bore-ntsync-v2 on amd64
+ .
+ This is useful for people who need to build external modules
+
 Package: linux-headers-6.18.63-soplos-lts-rt-v1
 Source: linux-upstream
 Version: 1
@@ -33,6 +52,25 @@ SHA1: b26aa38c66a21176cd89a7d238a21e28cd56d8e4
 MD5sum: e68e91d4ccad07abb58dce481caa3e1e
 Description: Linux kernel headers for 6.18.63-soplos-lts-rt-v1 on amd64
  This package provides kernel header files for 6.18.63-soplos-lts-rt-v1 on amd64
+ .
+ This is useful for people who need to build external modules
+
+Package: linux-headers-6.18.63-soplos-lts-rt-v2
+Source: linux-upstream
+Version: 1
+Architecture: amd64
+Maintainer: torke <torke@Tyson>
+Installed-Size: 57105
+Homepage: https://www.kernel.org/
+Priority: optional
+Section: kernel
+Filename: pool/main/l/linux-upstream/linux-headers-6.18.63-soplos-lts-rt-v2_1_amd64.deb
+Size: 9743568
+SHA256: ed1c34c3f1b31aebfdf507e1d9c7a5fbe851fe1f762ca6ac13a5dd3148608258
+SHA1: 0a2ed6830310bed62a5a0cff4bd7786907f6a880
+MD5sum: 299dc2014dd742c1f98173caf987e9b5
+Description: Linux kernel headers for 6.18.63-soplos-lts-rt-v2 on amd64
+ This package provides kernel header files for 6.18.63-soplos-lts-rt-v2 on amd64
  .
  This is useful for people who need to build external modules
 
@@ -55,6 +93,25 @@ Description: Linux kernel headers for 6.18.63-soplos-lts-v1 on amd64
  .
  This is useful for people who need to build external modules
 
+Package: linux-headers-6.18.63-soplos-lts-v2
+Source: linux-upstream
+Version: 1
+Architecture: amd64
+Maintainer: torke <torke@Tyson>
+Installed-Size: 57114
+Homepage: https://www.kernel.org/
+Priority: optional
+Section: kernel
+Filename: pool/main/l/linux-upstream/linux-headers-6.18.63-soplos-lts-v2_1_amd64.deb
+Size: 9742044
+SHA256: a60110512abc3f3c3aae850533d7f5a9d3c9088fd3cff8f93c86bbc075b1faf9
+SHA1: b6e62ae8ee836d4a28176a43638f3df936ef599e
+MD5sum: bf4c395527ee728fc7e979f76ab9dbb8
+Description: Linux kernel headers for 6.18.63-soplos-lts-v2 on amd64
+ This package provides kernel header files for 6.18.63-soplos-lts-v2 on amd64
+ .
+ This is useful for people who need to build external modules
+
 Package: linux-headers-6.18.63-zen1-soplos-lts-zen-v1
 Source: linux-upstream
 Version: 1
@@ -71,6 +128,25 @@ SHA1: c023f2bb96439f477ca9e11690364072c1961d14
 MD5sum: b7948dc4c825774c2e99a23ff9188634
 Description: Linux kernel headers for 6.18.63-zen1-soplos-lts-zen-v1 on amd64
  This package provides kernel header files for 6.18.63-zen1-soplos-lts-zen-v1 on amd64
+ .
+ This is useful for people who need to build external modules
+
+Package: linux-headers-6.18.63-zen1-soplos-lts-zen-v2
+Source: linux-upstream
+Version: 1
+Architecture: amd64
+Maintainer: torke <torke@Tyson>
+Installed-Size: 57209
+Homepage: https://www.kernel.org/
+Priority: optional
+Section: kernel
+Filename: pool/main/l/linux-upstream/linux-headers-6.18.63-zen1-soplos-lts-zen-v2_1_amd64.deb
+Size: 9755928
+SHA256: 247af8988dc6532f5f4565cf9153ae2acd7fdda370a17965cff66a14cdcf14b1
+SHA1: f3060100c0be51bcce70c2e7058676425a39ca5b
+MD5sum: 867f97e8aa13d2fbda426b3c5a184ecd
+Description: Linux kernel headers for 6.18.63-zen1-soplos-lts-zen-v2 on amd64
+ This package provides kernel header files for 6.18.63-zen1-soplos-lts-zen-v2 on amd64
  .
  This is useful for people who need to build external modules
 
@@ -434,6 +510,24 @@ Description: Linux kernel, version 6.18.63-soplos-lts-bore-ntsync-v1
  This package contains the Linux kernel, modules and corresponding other
  files, version: 6.18.63-soplos-lts-bore-ntsync-v1.
 
+Package: linux-image-6.18.63-soplos-lts-bore-ntsync-v2
+Source: linux-upstream
+Version: 1
+Architecture: amd64
+Maintainer: torke <torke@Tyson>
+Installed-Size: 105209
+Homepage: https://www.kernel.org/
+Priority: optional
+Section: kernel
+Filename: pool/main/l/linux-upstream/linux-image-6.18.63-soplos-lts-bore-ntsync-v2_1_amd64.deb
+Size: 92049308
+SHA256: 3ba3b9d2c1f66466e74d8b9a56b91ef38cdcb99fe8d2dfc392190dd6c90ee919
+SHA1: b79782edba5c363cad18304a825f75d492ebf41b
+MD5sum: e7428252459ad13468e8a04138900d0a
+Description: Linux kernel, version 6.18.63-soplos-lts-bore-ntsync-v2
+ This package contains the Linux kernel, modules and corresponding other
+ files, version: 6.18.63-soplos-lts-bore-ntsync-v2.
+
 Package: linux-image-6.18.63-soplos-lts-rt-v1
 Source: linux-upstream
 Version: 1
@@ -451,6 +545,24 @@ MD5sum: 51d6c422ec7114f2cc493102a4729e98
 Description: Linux kernel, version 6.18.63-soplos-lts-rt-v1
  This package contains the Linux kernel, modules and corresponding other
  files, version: 6.18.63-soplos-lts-rt-v1.
+
+Package: linux-image-6.18.63-soplos-lts-rt-v2
+Source: linux-upstream
+Version: 1
+Architecture: amd64
+Maintainer: torke <torke@Tyson>
+Installed-Size: 104995
+Homepage: https://www.kernel.org/
+Priority: optional
+Section: kernel
+Filename: pool/main/l/linux-upstream/linux-image-6.18.63-soplos-lts-rt-v2_1_amd64.deb
+Size: 91879556
+SHA256: d8327d5b8c2b534162b280d8a728e1461c9e6eb99cf4f8f104d6f0a7ff796de4
+SHA1: ae97e32dc96c8162a3a273e1526d55513bb35883
+MD5sum: acf1f7c45ad29435882fd0d03acb754a
+Description: Linux kernel, version 6.18.63-soplos-lts-rt-v2
+ This package contains the Linux kernel, modules and corresponding other
+ files, version: 6.18.63-soplos-lts-rt-v2.
 
 Package: linux-image-6.18.63-soplos-lts-v1
 Source: linux-upstream
@@ -470,6 +582,24 @@ Description: Linux kernel, version 6.18.63-soplos-lts-v1
  This package contains the Linux kernel, modules and corresponding other
  files, version: 6.18.63-soplos-lts-v1.
 
+Package: linux-image-6.18.63-soplos-lts-v2
+Source: linux-upstream
+Version: 1
+Architecture: amd64
+Maintainer: torke <torke@Tyson>
+Installed-Size: 105161
+Homepage: https://www.kernel.org/
+Priority: optional
+Section: kernel
+Filename: pool/main/l/linux-upstream/linux-image-6.18.63-soplos-lts-v2_1_amd64.deb
+Size: 91989496
+SHA256: 937cdb72b1b479371ac414d1811c7c6c8a9df3c5d33f2239c8b8244e6576b9fc
+SHA1: 423493a6a710fe466cb0f5f3ce898b36551c83c1
+MD5sum: 3f5f70afccf34f3c7f75eb27a5826af9
+Description: Linux kernel, version 6.18.63-soplos-lts-v2
+ This package contains the Linux kernel, modules and corresponding other
+ files, version: 6.18.63-soplos-lts-v2.
+
 Package: linux-image-6.18.63-zen1-soplos-lts-zen-v1
 Source: linux-upstream
 Version: 1
@@ -487,6 +617,24 @@ MD5sum: 0dff778c81fcda3f9228525e37d21937
 Description: Linux kernel, version 6.18.63-zen1-soplos-lts-zen-v1
  This package contains the Linux kernel, modules and corresponding other
  files, version: 6.18.63-zen1-soplos-lts-zen-v1.
+
+Package: linux-image-6.18.63-zen1-soplos-lts-zen-v2
+Source: linux-upstream
+Version: 1
+Architecture: amd64
+Maintainer: torke <torke@Tyson>
+Installed-Size: 104801
+Homepage: https://www.kernel.org/
+Priority: optional
+Section: kernel
+Filename: pool/main/l/linux-upstream/linux-image-6.18.63-zen1-soplos-lts-zen-v2_1_amd64.deb
+Size: 91746436
+SHA256: 09d040502b4816d892b7cd655fc65aa9e63a3723b06b91845f00bdb2a1fc5ade
+SHA1: 07234189c41b0ee71261408afb12857c0647f1df
+MD5sum: 2e26f0da45e2fe54a4bd302605a020a0
+Description: Linux kernel, version 6.18.63-zen1-soplos-lts-zen-v2
+ This package contains the Linux kernel, modules and corresponding other
+ files, version: 6.18.63-zen1-soplos-lts-zen-v2.
 
 Package: linux-image-7.3.4-soplos-bore-ntsync-v1
 Source: linux-upstream
@@ -897,6 +1045,23 @@ Description: Soplos Lts Bore Ntsync V1 kernel
  When a new version is released, upgrading this package will
  automatically pull in the new kernel.
 
+Package: linux-soplos-lts-bore-ntsync-v2
+Version: 6.18.63
+Architecture: amd64
+Maintainer: Soplos Linux Team <info@soplos.org>
+Depends: linux-image-6.18.63-soplos-lts-bore-ntsync-v2, linux-headers-6.18.63-soplos-lts-bore-ntsync-v2
+Priority: optional
+Section: kernel
+Filename: pool/main/l/linux-soplos-lts-bore-ntsync-v2/linux-soplos-lts-bore-ntsync-v2_6.18.63_amd64.deb
+Size: 840
+SHA256: 31a340e67e9cb6dc188906c80710c4c92b281d6de6045f3c64268033aa99cbed
+SHA1: 1239d3bb5733a823e57a0bfa3330e5f2d77f7b67
+MD5sum: ee60e030dedc93f43e7ecd3aa51a50d0
+Description: Soplos Lts Bore Ntsync V2 kernel
+ Installs the 6.18.63-soplos-lts-bore-ntsync-v2 kernel and its headers.
+ When a new version is released, upgrading this package will
+ automatically pull in the new kernel.
+
 Package: linux-soplos-lts-rt-v1
 Version: 6.18.63
 Architecture: amd64
@@ -911,6 +1076,23 @@ SHA1: d49b4105a1c41fba826a7cd3fc296ea9f7584238
 MD5sum: 4c8668f8940515034cc8b5d2a3961509
 Description: Soplos Lts Rt V1 kernel
  Installs the 6.18.63-soplos-lts-rt-v1 kernel and its headers.
+ When a new version is released, upgrading this package will
+ automatically pull in the new kernel.
+
+Package: linux-soplos-lts-rt-v2
+Version: 6.18.63
+Architecture: amd64
+Maintainer: Soplos Linux Team <info@soplos.org>
+Depends: linux-image-6.18.63-soplos-lts-rt-v2, linux-headers-6.18.63-soplos-lts-rt-v2
+Priority: optional
+Section: kernel
+Filename: pool/main/l/linux-soplos-lts-rt-v2/linux-soplos-lts-rt-v2_6.18.63_amd64.deb
+Size: 828
+SHA256: 3f9434fb2f5878f893ae4d66a281438d315ea6f583af38ace14bc0adbee59c69
+SHA1: b3a5cfca83c31e7b902850fc12d7e7efbe75da14
+MD5sum: b433b8a63c8b88918fcfcc54678af544
+Description: Soplos Lts Rt V2 kernel
+ Installs the 6.18.63-soplos-lts-rt-v2 kernel and its headers.
  When a new version is released, upgrading this package will
  automatically pull in the new kernel.
 
@@ -931,6 +1113,23 @@ Description: Soplos LTS V1 kernel
  When a new version is released, upgrading this package will
  automatically pull in the new kernel.
 
+Package: linux-soplos-lts-v2
+Version: 6.18.63
+Architecture: amd64
+Maintainer: Soplos Linux Team <info@soplos.org>
+Depends: linux-image-6.18.63-soplos-lts-v2, linux-headers-6.18.63-soplos-lts-v2
+Priority: optional
+Section: kernel
+Filename: pool/main/l/linux-soplos-lts-v2/linux-soplos-lts-v2_6.18.63_amd64.deb
+Size: 828
+SHA256: 7d05e90d11fec1edcbeffe99d34bf07da1cb2e77c72b1037baad5d1a4ae29498
+SHA1: ecd93a1a275a7d6a1c3174c333d49a779fb4d726
+MD5sum: 08535c2329278ceb32916bec6c170ad6
+Description: Soplos LTS V2 kernel
+ Installs the 6.18.63-soplos-lts-v2 kernel and its headers.
+ When a new version is released, upgrading this package will
+ automatically pull in the new kernel.
+
 Package: linux-soplos-lts-zen-v1
 Version: 6.18.63
 Architecture: amd64
@@ -945,6 +1144,23 @@ SHA1: 69baedda0f1172bc4935da22d311263f39d6a3e8
 MD5sum: dffd502844a765fffaca6398c7f0cb68
 Description: Soplos Lts Zen V1 kernel
  Installs the 6.18.63-zen1-soplos-lts-zen-v1 kernel and its headers.
+ When a new version is released, upgrading this package will
+ automatically pull in the new kernel.
+
+Package: linux-soplos-lts-zen-v2
+Version: 6.18.63
+Architecture: amd64
+Maintainer: Soplos Linux Team <info@soplos.org>
+Depends: linux-image-6.18.63-zen1-soplos-lts-zen-v2, linux-headers-6.18.63-zen1-soplos-lts-zen-v2
+Priority: optional
+Section: kernel
+Filename: pool/main/l/linux-soplos-lts-zen-v2/linux-soplos-lts-zen-v2_6.18.63_amd64.deb
+Size: 836
+SHA256: a785c071fd355f801516fb3d2a68ec47720a74d1af3e443ae5b3e2c1969caaa6
+SHA1: f735816d06404f0ac645ab5052886696652e85c5
+MD5sum: e801754d09da9f5f1e62d04f43104d87
+Description: Soplos Lts Zen V2 kernel
+ Installs the 6.18.63-zen1-soplos-lts-zen-v2 kernel and its headers.
  When a new version is released, upgrading this package will
  automatically pull in the new kernel.
 
