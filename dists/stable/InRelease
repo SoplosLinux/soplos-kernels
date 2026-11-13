@@ -6,41 +6,41 @@ Label: SoplosLinux
 Suite: stable
 Codename: stable
 Version: 1.0
-Date: Fri, 13 Nov 2026 13:24:41 UTC
+Date: Fri, 13 Nov 2026 13:24:46 UTC
 Architectures: amd64
 Components: main
 Description: Repositorio de SoplosLinux
 MD5Sum:
- 931b74d12c70cee0b507627eb2edd783 51740 main/binary-amd64/Packages
- 1f9e95b74217d74a1ae420622a4ff2b1 9424 main/binary-amd64/Packages.gz
+ f0017495f978850c230617948864e0ed 51050 main/binary-amd64/Packages
+ 508ac64daa588a2753667093a8230375 9309 main/binary-amd64/Packages.gz
  ca5e942ddd4b78e48c213d3216e830af 144 main/binary-amd64/Release
- 6b956cb1001d38a4285f2d7c1b33bf57 27957715 main/Contents-amd64
- e6abe81dcab1bf14b69ba17594583526 1491621 main/Contents-amd64.gz
+ 203006f90092b67e1265354dcdb0e556 27364748 main/Contents-amd64
+ a63033d1096da780f2b5bc4fca227b40 1461882 main/Contents-amd64.gz
 SHA1:
- 599df4fc9f174e9abe66a69b96d64753ea554eb9 51740 main/binary-amd64/Packages
- 1ab498271cc7566decf6b35742e15cea865332bc 9424 main/binary-amd64/Packages.gz
+ 1e97baf542ae0baeb7fafcd8f66a41eabc76f2ce 51050 main/binary-amd64/Packages
+ c6c7422f2d7f6f84775380ec7c5d97732d219b78 9309 main/binary-amd64/Packages.gz
  a2dfe29c3f8057aeb00a7f2d8547589ad430832d 144 main/binary-amd64/Release
- 2285ca5ddc6308745c91faa75f9766fbc8a9efea 27957715 main/Contents-amd64
- d54db6544608555a0b8ab5e496ec3595df6de328 1491621 main/Contents-amd64.gz
+ 11469d08bae0f9ebdba007768d6ba042d94aa3a0 27364748 main/Contents-amd64
+ b23c36196e96ad76936351a82c4ec18b900656d2 1461882 main/Contents-amd64.gz
 SHA256:
- f087ea1491269847f4c14a4fe681c8c1a916deae4551b30392e125f6ad382529 51740 main/binary-amd64/Packages
- b1c4111151eb9dcefd1e45dabb0d12e3ac910633796d25db7229b1869874565b 9424 main/binary-amd64/Packages.gz
+ d2ec6f30d0caddd7eb4afe41122e37ba0e574ba6212adaa795e1246cc59ba12a 51050 main/binary-amd64/Packages
+ 7192c1e21911fa2522477edf06ab661c8057489645e0ce58186ec5c843f47286 9309 main/binary-amd64/Packages.gz
  730e7f0c6581a39b0d66c97a1238d989f6e66df12fce1b1ecafe2dfbe5074384 144 main/binary-amd64/Release
- 827d4cb80d26d224c6c74b74d37014613cd7c1de28dd0466ed56ca501445b833 27957715 main/Contents-amd64
- ae9e51b9e87ee50d589e79d9a1cc30abb03f1c6602ce880c377b8a482b3d3583 1491621 main/Contents-amd64.gz
+ 9d304d44ae7a696aace95b7977b2451832348a4dd1609798781da622d2de273e 27364748 main/Contents-amd64
+ f2fbe7ea5c27aee95db299fc409df5e5d35e5013bf8e229078d29ed0f04a4ae8 1461882 main/Contents-amd64.gz
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEFpXDeL+3Y89OIrzYWZLyo7C3fvAFAmr3D5kACgkQWZLyo7C3
-fvAjYhAAg4IIy6dgvTrExjxa5ipuYLT2tKEslGdDDgbdNTd+qalrli2qPpdzNWsI
-eQDb0ROeeAu+VbJPtmONgCBEeSZl/NYWvnkdsMWmuossqpLo4zhClfzomJQuQxBo
-3IWNzXEugjsAY3KyvqFyxSaUTizQFBUf0eNyviViRpqDg5oUCrhl3F4aLwHMKq96
-pdVUIYExaKFQRTlOJrDB8yOOl4mRpsMgyHSOd9DMK0D5nMa0lULvOugqmblsM1rf
-11Y/06TXsyO9ePlF9qkl4oC1v1SsahVYlmhm5Eue+9nE0CopvsHuGZPpF76b+7Eh
-LOFxSWFyYQQhe29n2IOBBoFClsJaaIHw4BQ7kM+APqf953oSc1Qv3UJZtmULVRab
-+qC91GVXNXvOG9fbNvExLwMHahJHMFo3QP13eFhhyj6mA0GIbKK5RrSGdrbYeZPB
-p73kdH60ADLqOTJ08CfFMbMWtoQUOAfGTRqPbyOirUW+s/nB/WRjTdvbkQhiy5kg
-vHDF+OSTaM5dy/njTRwdM1s15hKGImm5oWYpmxEsF13rbqOxGNWwaTsjPliCTS9k
-USgIwBbWW514efkanki+VBd9D2iqF6Loyw8hE6A7dNyYHOzp4NlE6vDVmGAN6e3E
-PpvbbFlxDALx53lIB6fPOnrxrARyz/4AdJEdnmvH1L5zkvJr+7M=
-=Hriu
+iQIzBAEBCgAdFiEEFpXDeL+3Y89OIrzYWZLyo7C3fvAFAmr3D54ACgkQWZLyo7C3
+fvCpAg//SLQa5EAZCw1cdm/n5lmPFWE3SgNzv92eqfxZyxI/E0fMEFRS9c21zwVJ
+bzikUL0VqmLKZHA41h1pafMa8gQWehpEgE/4xDfBbkndy5rfQbJfuG2Rau7Gvmu+
+7/q5wcyeWpFCu91N4UI4jJO9b6XWLLIaaEhf8a/cwxrSXar7C5bNSGW727Zoqi4Y
+NxKTdgAjxC5uPxpkjt6uFYmPH3R/i6jykFsPybFlROxn6QMJIyJQkQpZjns65KoB
+HnlP8Uax2XUVlqJLqMSOxo8h6l5H2f8alL7L3yBnscCNo/RWoAL9kATpEJI9iIcD
+k3Wk6kiZId8hsy+EvvCqyPQTS8FUpgfM1j7k2jiilIRknCj60+9xezbNbVMpUOdw
+GSn/agy2JdBRxV0SkGdlW1yd/FHU5YtnqrAfatygoAWflDJA4cRycRD8jetXjlXT
+feGW5OHRchhhe+eXrghCz9FidgoeGJdxmr7219cGg3x8/PUVCu3TId8GdjlVKv6J
+aagm7wan5Q23nED7PoLbLX8mShKzWp0C//c7V7qCcvRoYVkbrvke/szK5efTOQEq
+fVLVARZaBOZDuq54PSuCr+TkxbFVwQNG4xloBl3Q0CtfQO/mkfpphXvtLONCyh39
+zW29DEClH6bkXjI1yfN6PimJZKCkwvqvz0yU2LAKEd5VR6sY7aA=
+=Qlem
 -----END PGP SIGNATURE-----
