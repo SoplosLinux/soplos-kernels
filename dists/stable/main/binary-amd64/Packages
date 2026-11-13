@@ -732,23 +732,6 @@ Description: Soplos Bore Ntsync V4 kernel
  When a new version is released, upgrading this package will
  automatically pull in the new kernel.
 
-Package: linux-soplos-lts-zen-v3
-Version: 6.18.62
-Architecture: amd64
-Maintainer: Soplos Linux Team <info@soplos.org>
-Depends: linux-image-6.18.62-zen1-soplos-lts-zen-v3, linux-headers-6.18.62-zen1-soplos-lts-zen-v3
-Priority: optional
-Section: kernel
-Filename: pool/main/l/linux-soplos-lts-zen-v3/linux-soplos-lts-zen-v3_6.18.62_amd64.deb
-Size: 832
-SHA256: c3db713d6e3d01bb4685c5e9cd6c639796ac50c5f01574a2d9d652dd8ffdf4cd
-SHA1: 8c2d697441e7a9a12d39518498664600305f68c4
-MD5sum: 84b31160dda5054b1bf1a85bb6cdfd7e
-Description: Soplos Lts Zen V3 kernel
- Installs the 6.18.62-zen1-soplos-lts-zen-v3 kernel and its headers.
- When a new version is released, upgrading this package will
- automatically pull in the new kernel.
-
 Package: linux-soplos-lts-zen-v4
 Version: 6.18.62
 Architecture: amd64
