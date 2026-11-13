@@ -340,24 +340,6 @@ Description: Linux kernel headers for 7.3.4-zen1-soplos-zen-v4 on amd64
  .
  This is useful for people who need to build external modules
 
-Package: linux-image-6.18.62-soplos-lts-bore-ntsync-v3
-Source: linux-upstream
-Version: 1
-Architecture: amd64
-Maintainer: juanjo <juanjo@victus>
-Installed-Size: 105180
-Homepage: https://www.kernel.org/
-Priority: optional
-Section: kernel
-Filename: pool/main/l/linux-upstream/linux-image-6.18.62-soplos-lts-bore-ntsync-v3_1_amd64.deb
-Size: 92021072
-SHA256: 28e73cbab7c4228b57f2977c2c90e30a9d4e4dfe1348ec7ae698e2be3d448191
-SHA1: 505366bb53e7c354db17899b5db6722b4223a84d
-MD5sum: 1db4b8f51c60f269f43da90421a94753
-Description: Linux kernel, version 6.18.62-soplos-lts-bore-ntsync-v3
- This package contains the Linux kernel, modules and corresponding other
- files, version: 6.18.62-soplos-lts-bore-ntsync-v3.
-
 Package: linux-image-6.18.62-soplos-lts-bore-ntsync-v4
 Source: linux-upstream
 Version: 1
