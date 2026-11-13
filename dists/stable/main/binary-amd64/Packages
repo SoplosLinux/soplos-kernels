@@ -1,22 +1,3 @@
-Package: linux-headers-6.18.62-soplos-lts-v4
-Source: linux-upstream
-Version: 1
-Architecture: amd64
-Maintainer: juanjo <juanjo@victus>
-Installed-Size: 57111
-Homepage: https://www.kernel.org/
-Priority: optional
-Section: kernel
-Filename: pool/main/l/linux-upstream/linux-headers-6.18.62-soplos-lts-v4_1_amd64.deb
-Size: 9741344
-SHA256: 7174f7a3e8281b783758bab6497f2d460885f5c6dd414e7d5de5bb3a931a7588
-SHA1: 97d90965ca4028c7bea9a10ca7863d72d6c4a14c
-MD5sum: 78892f5325cb4cedb7f9ec9760deeaaa
-Description: Linux kernel headers for 6.18.62-soplos-lts-v4 on amd64
- This package provides kernel header files for 6.18.62-soplos-lts-v4 on amd64
- .
- This is useful for people who need to build external modules
-
 Package: linux-headers-6.18.62-soplos-lts-x3d-v3
 Source: linux-upstream
 Version: 1
