@@ -1,22 +1,3 @@
-Package: linux-headers-6.18.62-soplos-lts-bore-ntsync-v3
-Source: linux-upstream
-Version: 1
-Architecture: amd64
-Maintainer: juanjo <juanjo@victus>
-Installed-Size: 57115
-Homepage: https://www.kernel.org/
-Priority: optional
-Section: kernel
-Filename: pool/main/l/linux-upstream/linux-headers-6.18.62-soplos-lts-bore-ntsync-v3_1_amd64.deb
-Size: 9760708
-SHA256: ecefe2005056003d494e9ab87327f44f15531ce293888ad2d63d91e04df08bdd
-SHA1: 592ca22ccf237b0f5d78d91e44f4c22e013eada0
-MD5sum: 1063049d441e0f457307f93c04b9bd9d
-Description: Linux kernel headers for 6.18.62-soplos-lts-bore-ntsync-v3 on amd64
- This package provides kernel header files for 6.18.62-soplos-lts-bore-ntsync-v3 on amd64
- .
- This is useful for people who need to build external modules
-
 Package: linux-headers-6.18.62-soplos-lts-bore-ntsync-v4
 Source: linux-upstream
 Version: 1
