@@ -732,23 +732,6 @@ Description: Soplos Bore Ntsync V4 kernel
  When a new version is released, upgrading this package will
  automatically pull in the new kernel.
 
-Package: linux-soplos-lts-rt-v2
-Version: 6.18.62
-Architecture: amd64
-Maintainer: Soplos Linux Team <info@soplos.org>
-Depends: linux-image-6.18.62-soplos-lts-rt-v2, linux-headers-6.18.62-soplos-lts-rt-v2
-Priority: optional
-Section: kernel
-Filename: pool/main/l/linux-soplos-lts-rt-v2/linux-soplos-lts-rt-v2_6.18.62_amd64.deb
-Size: 828
-SHA256: 7dc45d1a1fb5a3b14e7f185b83c5ef1e0e8daffbda6f14313e9de2e870cfc8d9
-SHA1: 0f531b53a922df9b12f896118345a714dbce66a2
-MD5sum: 2f48549e0b3a9d227e570147055544ba
-Description: Soplos Lts Rt V2 kernel
- Installs the 6.18.62-soplos-lts-rt-v2 kernel and its headers.
- When a new version is released, upgrading this package will
- automatically pull in the new kernel.
-
 Package: linux-soplos-lts-rt-v3
 Version: 6.18.62
 Architecture: amd64
