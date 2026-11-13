@@ -340,24 +340,6 @@ Description: Linux kernel headers for 7.3.4-zen1-soplos-zen-v4 on amd64
  .
  This is useful for people who need to build external modules
 
-Package: linux-image-6.18.62-soplos-lts-v2
-Source: linux-upstream
-Version: 1
-Architecture: amd64
-Maintainer: juanjo <juanjo@victus>
-Installed-Size: 105145
-Homepage: https://www.kernel.org/
-Priority: optional
-Section: kernel
-Filename: pool/main/l/linux-upstream/linux-image-6.18.62-soplos-lts-v2_1_amd64.deb
-Size: 91986596
-SHA256: e6e1320d4d4c170a6710c4bb8017a8cc072c80a69d2ed661c34f83bd2cbb8dd0
-SHA1: dc1caf14c4574e40587628bb67cf5e9740eb0fc7
-MD5sum: 9d5111c2853c2b9f038adb22e422fa56
-Description: Linux kernel, version 6.18.62-soplos-lts-v2
- This package contains the Linux kernel, modules and corresponding other
- files, version: 6.18.62-soplos-lts-v2.
-
 Package: linux-image-6.18.62-soplos-lts-v3
 Source: linux-upstream
 Version: 1
