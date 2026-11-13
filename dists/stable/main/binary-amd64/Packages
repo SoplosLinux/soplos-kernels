@@ -1,22 +1,3 @@
-Package: linux-headers-6.18.62-zen1-soplos-lts-zen-v2
-Source: linux-upstream
-Version: 1
-Architecture: amd64
-Maintainer: juanjo <juanjo@victus>
-Installed-Size: 57116
-Homepage: https://www.kernel.org/
-Priority: optional
-Section: kernel
-Filename: pool/main/l/linux-upstream/linux-headers-6.18.62-zen1-soplos-lts-zen-v2_1_amd64.deb
-Size: 9754300
-SHA256: 1468d81028b679cea513dd7850c4c962845cb5652d51bd7a33dc53a0f4624a2a
-SHA1: fc7e060bbedd9e35bf750c1f7f81d46a01925c09
-MD5sum: fc58cca50f087a93f08ec3ffb3acaee2
-Description: Linux kernel headers for 6.18.62-zen1-soplos-lts-zen-v2 on amd64
- This package provides kernel header files for 6.18.62-zen1-soplos-lts-zen-v2 on amd64
- .
- This is useful for people who need to build external modules
-
 Package: linux-headers-6.18.62-zen1-soplos-lts-zen-v3
 Source: linux-upstream
 Version: 1
