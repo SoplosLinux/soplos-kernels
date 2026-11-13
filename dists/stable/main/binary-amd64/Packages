@@ -1,22 +1,3 @@
-Package: linux-headers-6.18.62-zen1-soplos-lts-zen-v4
-Source: linux-upstream
-Version: 1
-Architecture: amd64
-Maintainer: juanjo <juanjo@victus>
-Installed-Size: 57116
-Homepage: https://www.kernel.org/
-Priority: optional
-Section: kernel
-Filename: pool/main/l/linux-upstream/linux-headers-6.18.62-zen1-soplos-lts-zen-v4_1_amd64.deb
-Size: 9754440
-SHA256: 792ad9043cd6396f3af488e78be5ff3cb8b23496cf6b3e94675cd809bf627570
-SHA1: 0565c6b52fe3dd7aef11d11ba3b417ac8b6f20df
-MD5sum: a7da1a9dc8ca5cdd6428fd44232bcbcd
-Description: Linux kernel headers for 6.18.62-zen1-soplos-lts-zen-v4 on amd64
- This package provides kernel header files for 6.18.62-zen1-soplos-lts-zen-v4 on amd64
- .
- This is useful for people who need to build external modules
-
 Package: linux-headers-7.3.4-soplos-bore-ntsync-v1
 Source: linux-upstream
 Version: 1
