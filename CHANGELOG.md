@@ -43,8 +43,31 @@ not commit history.
 | 7.3.3 | 2026-11-07 | soplos, bore-ntsync, rt, zen, x3d | V1-V4 (x3d: V3/V4 only) |
 | 6.18.62 | 2026-11-08 | lts, lts-bore-ntsync, lts-rt, lts-zen, lts-x3d | lts, lts-bore-ntsync, lts-rt: V1-V4; lts-zen: V2-V4 so far; lts-x3d: V4 so far |
 | 7.3.4 | 2026-11-11 | soplos, bore-ntsync, rt, zen, x3d | V1-V4 (x3d: V3/V4 only) |
+| 7.3.5 | 2026-11-18 | soplos, bore-ntsync, rt, zen, x3d | V1-V4 (x3d: V3/V4 only) |
+| 6.18.64 | 2026-11-18 | lts, lts-bore-ntsync, lts-rt, lts-zen, lts-x3d | V1-V4 (x3d: V3/V4 only) |
 
 ---
+
+## 7.3.5 — 2026-11-18
+
+Full V1-V4 catalog build, same variant set as 7.3.4 (soplos, bore-ntsync, rt, zen, x3d).
+
+- Updated base to Linux 7.3.5.
+- Available across all microarchitecture levels V1–V4 (x3d: V3 and V4 only).
+- Package revision `-1`.
+- `zen` carries `zen1` in its version string (`7.3.5-zen1-soplos-zen-vN`).
+- `bore-ntsync` updated with upstream BORE scheduler and NTSYNC patches.
+- `rt` updated with PREEMPT_RT patches.
+
+## 6.18.64 — 2026-11-18
+
+Full V1-V4 catalog build for the LTS line (lts, lts-bore-ntsync, lts-rt, lts-zen, lts-x3d).
+
+- Updated LTS base to Linux 6.18.64.
+- Available across all microarchitecture levels V1–V4 (x3d: V3 and V4 only).
+- Package revision `-1`.
+- `zen` carries `zen1` in its version string (`6.18.64-zen1-soplos-lts-zen-vN`).
+- Metapackages updated across all V1–V4 hardware levels.
 
 ## 7.3.4 — 2026-11-11
 
