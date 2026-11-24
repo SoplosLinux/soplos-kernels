@@ -1,3 +1,79 @@
+Package: linux-headers-6.18.65-soplos-lts-bore-ntsync-v1
+Source: linux-upstream
+Version: 1
+Architecture: amd64
+Maintainer: juanjo <juanjo@victus>
+Installed-Size: 57223
+Homepage: https://www.kernel.org/
+Priority: optional
+Section: kernel
+Filename: pool/main/l/linux-upstream/linux-headers-6.18.65-soplos-lts-bore-ntsync-v1_1_amd64.deb
+Size: 9780168
+SHA256: e92fc3e4db0d5eea2b42e45cd62cce1e548b4b3210e327c6c09be693a6538dc7
+SHA1: bbecd36a427557fa9aec4b585d25a432525aa065
+MD5sum: 4713dedc7e3ad737850508b51cbd8938
+Description: Linux kernel headers for 6.18.65-soplos-lts-bore-ntsync-v1 on amd64
+ This package provides kernel header files for 6.18.65-soplos-lts-bore-ntsync-v1 on amd64
+ .
+ This is useful for people who need to build external modules
+
+Package: linux-headers-6.18.65-soplos-lts-rt-v1
+Source: linux-upstream
+Version: 1
+Architecture: amd64
+Maintainer: juanjo <juanjo@victus>
+Installed-Size: 57210
+Homepage: https://www.kernel.org/
+Priority: optional
+Section: kernel
+Filename: pool/main/l/linux-upstream/linux-headers-6.18.65-soplos-lts-rt-v1_1_amd64.deb
+Size: 9763524
+SHA256: 95d766047d530cdeb9e3fac9dd59b3ce47b50459bd14d30fcf0dae853fbf1268
+SHA1: bdf2b569bb7461edb8a3435bcccb7a5eba4dd8bc
+MD5sum: d621130ce876d89a4914b30b01569737
+Description: Linux kernel headers for 6.18.65-soplos-lts-rt-v1 on amd64
+ This package provides kernel header files for 6.18.65-soplos-lts-rt-v1 on amd64
+ .
+ This is useful for people who need to build external modules
+
+Package: linux-headers-6.18.65-soplos-lts-v1
+Source: linux-upstream
+Version: 1
+Architecture: amd64
+Maintainer: juanjo <juanjo@victus>
+Installed-Size: 57219
+Homepage: https://www.kernel.org/
+Priority: optional
+Section: kernel
+Filename: pool/main/l/linux-upstream/linux-headers-6.18.65-soplos-lts-v1_1_amd64.deb
+Size: 9761536
+SHA256: eda3783555d5bc2a5f4431b2cfea30fd6a09093239ad4ee00690d73ecf898556
+SHA1: 4fdce6abbc123054c70df0a46b144609e7af5143
+MD5sum: 7b1b658d3f56893741d6ebd5dcae816f
+Description: Linux kernel headers for 6.18.65-soplos-lts-v1 on amd64
+ This package provides kernel header files for 6.18.65-soplos-lts-v1 on amd64
+ .
+ This is useful for people who need to build external modules
+
+Package: linux-headers-6.18.65-zen1-soplos-lts-zen-v1
+Source: linux-upstream
+Version: 1
+Architecture: amd64
+Maintainer: juanjo <juanjo@victus>
+Installed-Size: 57384
+Homepage: https://www.kernel.org/
+Priority: optional
+Section: kernel
+Filename: pool/main/l/linux-upstream/linux-headers-6.18.65-zen1-soplos-lts-zen-v1_1_amd64.deb
+Size: 9775664
+SHA256: 4f0ab6070252b5aad495e853e5a39de077085a4cb6b61eb95a534ef4d3140d47
+SHA1: f66e13d6489303665588eafd62dd9120f66da2eb
+MD5sum: b7dfe02e1efa21dc21b5de41c6220c3e
+Description: Linux kernel headers for 6.18.65-zen1-soplos-lts-zen-v1 on amd64
+ This package provides kernel header files for 6.18.65-zen1-soplos-lts-zen-v1 on amd64
+ .
+ This is useful for people who need to build external modules
+
 Package: linux-headers-7.3.6-soplos-bore-ntsync-v1
 Source: linux-upstream
 Version: 1
@@ -339,6 +415,78 @@ Description: Linux kernel headers for 7.3.6-zen1-soplos-zen-v4 on amd64
  This package provides kernel header files for 7.3.6-zen1-soplos-zen-v4 on amd64
  .
  This is useful for people who need to build external modules
+
+Package: linux-image-6.18.65-soplos-lts-bore-ntsync-v1
+Source: linux-upstream
+Version: 1
+Architecture: amd64
+Maintainer: juanjo <juanjo@victus>
+Installed-Size: 106733
+Homepage: https://www.kernel.org/
+Priority: optional
+Section: kernel
+Filename: pool/main/l/linux-upstream/linux-image-6.18.65-soplos-lts-bore-ntsync-v1_1_amd64.deb
+Size: 93509376
+SHA256: b19c8bdd09123828a8a6055d220eb4c21da0f4e6219b33cd974c2059c2272922
+SHA1: 218627754c7a5299454196f06e6440e06399c4de
+MD5sum: 82ae68318655df63212de42959903869
+Description: Linux kernel, version 6.18.65-soplos-lts-bore-ntsync-v1
+ This package contains the Linux kernel, modules and corresponding other
+ files, version: 6.18.65-soplos-lts-bore-ntsync-v1.
+
+Package: linux-image-6.18.65-soplos-lts-rt-v1
+Source: linux-upstream
+Version: 1
+Architecture: amd64
+Maintainer: juanjo <juanjo@victus>
+Installed-Size: 105034
+Homepage: https://www.kernel.org/
+Priority: optional
+Section: kernel
+Filename: pool/main/l/linux-upstream/linux-image-6.18.65-soplos-lts-rt-v1_1_amd64.deb
+Size: 91910860
+SHA256: 637c0f3277928954ae5800d03282edaced3a27fc90672694c1a85ac8f3faa98c
+SHA1: b5db0498d5887120649bad7178fef900c526245d
+MD5sum: 891980cbd460a0edf6ab3d890ff73f30
+Description: Linux kernel, version 6.18.65-soplos-lts-rt-v1
+ This package contains the Linux kernel, modules and corresponding other
+ files, version: 6.18.65-soplos-lts-rt-v1.
+
+Package: linux-image-6.18.65-soplos-lts-v1
+Source: linux-upstream
+Version: 1
+Architecture: amd64
+Maintainer: juanjo <juanjo@victus>
+Installed-Size: 105242
+Homepage: https://www.kernel.org/
+Priority: optional
+Section: kernel
+Filename: pool/main/l/linux-upstream/linux-image-6.18.65-soplos-lts-v1_1_amd64.deb
+Size: 92064588
+SHA256: 7cc5040433ace85de767c62cb9c4b0a08cba3e6e5c13921116301c72244d5db4
+SHA1: d6a9d164e8beb3fbe6f61c021e50ecae53ecb667
+MD5sum: fb61df8782ee0564254d813bc14b9b4c
+Description: Linux kernel, version 6.18.65-soplos-lts-v1
+ This package contains the Linux kernel, modules and corresponding other
+ files, version: 6.18.65-soplos-lts-v1.
+
+Package: linux-image-6.18.65-zen1-soplos-lts-zen-v1
+Source: linux-upstream
+Version: 1
+Architecture: amd64
+Maintainer: juanjo <juanjo@victus>
+Installed-Size: 104912
+Homepage: https://www.kernel.org/
+Priority: optional
+Section: kernel
+Filename: pool/main/l/linux-upstream/linux-image-6.18.65-zen1-soplos-lts-zen-v1_1_amd64.deb
+Size: 91825856
+SHA256: b210163878bc68509a01093cf5d1db7f49b9f7ed0d3108c671569f9e96455496
+SHA1: 65216043e85dac71aba633f728bad6810442b115
+MD5sum: fa0249f2ca05574654eb94c64d8faf98
+Description: Linux kernel, version 6.18.65-zen1-soplos-lts-zen-v1
+ This package contains the Linux kernel, modules and corresponding other
+ files, version: 6.18.65-zen1-soplos-lts-zen-v1.
 
 Package: linux-image-7.3.6-soplos-bore-ntsync-v1
 Source: linux-upstream
@@ -729,6 +877,74 @@ SHA1: 674f74f696d0487b60c8a0a1f717a042779613ca
 MD5sum: 7c42adc141a0b9553bad9aa2230a1020
 Description: Soplos Bore Ntsync V4 kernel
  Installs the 7.3.6-soplos-bore-ntsync-v4 kernel and its headers.
+ When a new version is released, upgrading this package will
+ automatically pull in the new kernel.
+
+Package: linux-soplos-lts-bore-ntsync-v1
+Version: 6.18.65
+Architecture: amd64
+Maintainer: Soplos Linux Team <info@soplos.org>
+Depends: linux-image-6.18.65-soplos-lts-bore-ntsync-v1, linux-headers-6.18.65-soplos-lts-bore-ntsync-v1
+Priority: optional
+Section: kernel
+Filename: pool/main/l/linux-soplos-lts-bore-ntsync-v1/linux-soplos-lts-bore-ntsync-v1_6.18.65_amd64.deb
+Size: 840
+SHA256: 3bf1525c88f5e770e9c555083a4282a6ffec6e0b99788c8dd92c981c7da837e6
+SHA1: dd84f4c370fe35af7c71a927ab03a35c916f190f
+MD5sum: ee892d33679d361896449679acb77eca
+Description: Soplos Lts Bore Ntsync V1 kernel
+ Installs the 6.18.65-soplos-lts-bore-ntsync-v1 kernel and its headers.
+ When a new version is released, upgrading this package will
+ automatically pull in the new kernel.
+
+Package: linux-soplos-lts-rt-v1
+Version: 6.18.65
+Architecture: amd64
+Maintainer: Soplos Linux Team <info@soplos.org>
+Depends: linux-image-6.18.65-soplos-lts-rt-v1, linux-headers-6.18.65-soplos-lts-rt-v1
+Priority: optional
+Section: kernel
+Filename: pool/main/l/linux-soplos-lts-rt-v1/linux-soplos-lts-rt-v1_6.18.65_amd64.deb
+Size: 828
+SHA256: af51b65ace4b1a457c223725fb50f91180792499539abab48b5f68834a1b2f39
+SHA1: 8c70da79edf1ec34bf7b64c39f235b5f700d69d5
+MD5sum: 77b744190c9b389d299bb40667ee6937
+Description: Soplos Lts Rt V1 kernel
+ Installs the 6.18.65-soplos-lts-rt-v1 kernel and its headers.
+ When a new version is released, upgrading this package will
+ automatically pull in the new kernel.
+
+Package: linux-soplos-lts-v1
+Version: 6.18.65
+Architecture: amd64
+Maintainer: Soplos Linux Team <info@soplos.org>
+Depends: linux-image-6.18.65-soplos-lts-v1, linux-headers-6.18.65-soplos-lts-v1
+Priority: optional
+Section: kernel
+Filename: pool/main/l/linux-soplos-lts-v1/linux-soplos-lts-v1_6.18.65_amd64.deb
+Size: 824
+SHA256: 82ad15bb70da26e27feeeddc60d57f3baf25f4d231e0d37d8385da029cbd8c0d
+SHA1: 61056d57f22465fdfc295c2ceb0f7d727d021cd4
+MD5sum: 4e71160a9f33d8d19158d451b912c5d7
+Description: Soplos LTS V1 kernel
+ Installs the 6.18.65-soplos-lts-v1 kernel and its headers.
+ When a new version is released, upgrading this package will
+ automatically pull in the new kernel.
+
+Package: linux-soplos-lts-zen-v1
+Version: 6.18.65
+Architecture: amd64
+Maintainer: Soplos Linux Team <info@soplos.org>
+Depends: linux-image-6.18.65-zen1-soplos-lts-zen-v1, linux-headers-6.18.65-zen1-soplos-lts-zen-v1
+Priority: optional
+Section: kernel
+Filename: pool/main/l/linux-soplos-lts-zen-v1/linux-soplos-lts-zen-v1_6.18.65_amd64.deb
+Size: 832
+SHA256: 223e0cf5dde6189cfeacea3adad6f4874eb9b36339a23d3263d8718dc9eaf456
+SHA1: 6d4083fdb7e4aac66396d36fa30a0faed92cea7f
+MD5sum: 456d22e6719fc0f18767cebb439878dd
+Description: Soplos Lts Zen V1 kernel
+ Installs the 6.18.65-zen1-soplos-lts-zen-v1 kernel and its headers.
  When a new version is released, upgrading this package will
  automatically pull in the new kernel.
 
