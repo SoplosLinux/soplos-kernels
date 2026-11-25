@@ -361,18 +361,18 @@ Description: Linux kernel headers for 7.3.6-soplos-bore-ntsync-v1 on amd64
 
 Package: linux-headers-7.3.6-soplos-bore-ntsync-v2
 Source: linux-upstream
-Version: 1
+Version: 2
 Architecture: amd64
-Maintainer: jr <jr@jr-tyson>
-Installed-Size: 60487
+Maintainer: soplos <soplos@soplos-vmware201>
+Installed-Size: 60488
 Homepage: https://www.kernel.org/
 Priority: optional
 Section: kernel
-Filename: pool/main/l/linux-upstream/linux-headers-7.3.6-soplos-bore-ntsync-v2_1_amd64.deb
-Size: 10196636
-SHA256: e7b8103877ba75271c0abd511edaea4ad1484f57c2881264e8f88f4c6ff41f09
-SHA1: b6524b5be062f3f3c79013970107e1b0f3c23c9d
-MD5sum: 0e78532756178f531f6faa1c81288d79
+Filename: pool/main/l/linux-upstream/linux-headers-7.3.6-soplos-bore-ntsync-v2_2_amd64.deb
+Size: 10196420
+SHA256: d3f357730327dfc9a5fae3d07630238d7ec7568defe7124cd4a038410e7749b5
+SHA1: 0bf1855ac85f8012acea40234049f953a44ae1cc
+MD5sum: 7bbed538c62e8fa50715031f5efa4523
 Description: Linux kernel headers for 7.3.6-soplos-bore-ntsync-v2 on amd64
  This package provides kernel header files for 7.3.6-soplos-bore-ntsync-v2 on amd64
  .
@@ -1026,18 +1026,18 @@ Description: Linux kernel, version 7.3.6-soplos-bore-ntsync-v1
 
 Package: linux-image-7.3.6-soplos-bore-ntsync-v2
 Source: linux-upstream
-Version: 1
+Version: 2
 Architecture: amd64
-Maintainer: jr <jr@jr-tyson>
-Installed-Size: 109477
+Maintainer: soplos <soplos@soplos-vmware201>
+Installed-Size: 111372
 Homepage: https://www.kernel.org/
 Priority: optional
 Section: kernel
-Filename: pool/main/l/linux-upstream/linux-image-7.3.6-soplos-bore-ntsync-v2_1_amd64.deb
-Size: 95416892
-SHA256: a99227854f1dbe69cf3da5a59755c73bf565b4c055a4ccf5c3cdc8d329e993f9
-SHA1: ae971aa3a355f9356e2286ce38aa5be1ed1bbe32
-MD5sum: 17a50cc3539ca0a1a813c5a4e8baf500
+Filename: pool/main/l/linux-upstream/linux-image-7.3.6-soplos-bore-ntsync-v2_2_amd64.deb
+Size: 97126528
+SHA256: 0a846780289a55a220b20255fa87c0e566631f7793f1bf37dc16a840290a0948
+SHA1: 3eed89017325e42acbd8fda596737e91b76fc0c4
+MD5sum: 5ca4884e2957e2baf142139140117e21
 Description: Linux kernel, version 7.3.6-soplos-bore-ntsync-v2
  This package contains the Linux kernel, modules and corresponding other
  files, version: 7.3.6-soplos-bore-ntsync-v2.
@@ -1348,17 +1348,17 @@ Description: Soplos Bore Ntsync V1 kernel
  automatically pull in the new kernel.
 
 Package: linux-soplos-bore-ntsync-v2
-Version: 7.3.6
+Version: 7.3.6-2
 Architecture: amd64
 Maintainer: Soplos Linux Team <info@soplos.org>
 Depends: linux-image-7.3.6-soplos-bore-ntsync-v2, linux-headers-7.3.6-soplos-bore-ntsync-v2
 Priority: optional
 Section: kernel
-Filename: pool/main/l/linux-soplos-bore-ntsync-v2/linux-soplos-bore-ntsync-v2_7.3.6_amd64.deb
-Size: 832
-SHA256: c946a0e4f22e7cfefc3965864fe15c22729a327ab271e6162b6326f7bf7953f7
-SHA1: 93637715966902f6fcac24c97ba7c6746babd8b1
-MD5sum: a20373abb395f3f036b0ce90f8909a61
+Filename: pool/main/l/linux-soplos-bore-ntsync-v2/linux-soplos-bore-ntsync-v2_7.3.6-2_amd64.deb
+Size: 836
+SHA256: 025570083b7d73bc13ba3896035bcdc3b9a5378383b431b064931ade9a919c2f
+SHA1: c4fb6cebf54164b888ec0d64d4290a5998b7e3fa
+MD5sum: b4cc36a208e083d25a873aafe417a9bb
 Description: Soplos Bore Ntsync V2 kernel
  Installs the 7.3.6-soplos-bore-ntsync-v2 kernel and its headers.
  When a new version is released, upgrading this package will
