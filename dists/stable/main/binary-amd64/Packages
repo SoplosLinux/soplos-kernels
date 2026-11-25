@@ -589,18 +589,18 @@ Description: Linux kernel headers for 7.3.6-soplos-x3d-v3 on amd64
 
 Package: linux-headers-7.3.6-soplos-x3d-v4
 Source: linux-upstream
-Version: 1
+Version: 2
 Architecture: amd64
-Maintainer: jr <jr@jr-tyson>
-Installed-Size: 60487
+Maintainer: soplos <soplos@soplos-vmware201>
+Installed-Size: 60489
 Homepage: https://www.kernel.org/
 Priority: optional
 Section: kernel
-Filename: pool/main/l/linux-upstream/linux-headers-7.3.6-soplos-x3d-v4_1_amd64.deb
-Size: 10192440
-SHA256: 46d5145fe793bce14eb76adcfd13b7ba2c8a8cda2fe24a1d054772257d551265
-SHA1: 2129f76a23990cad0304c5788d46153cc1d06dae
-MD5sum: 7d7513ed4c84b3533240e747cbfb46ed
+Filename: pool/main/l/linux-upstream/linux-headers-7.3.6-soplos-x3d-v4_2_amd64.deb
+Size: 10192984
+SHA256: 1684b51117a1d5e5f951cbcce9bfc96efdcaad56dab44cee675d09659ada2ae2
+SHA1: f75beaad58b53d2d4c9ac7663aa278913cc4465b
+MD5sum: 2497b4ed679999ec9ecd1f12fe845944
 Description: Linux kernel headers for 7.3.6-soplos-x3d-v4 on amd64
  This package provides kernel header files for 7.3.6-soplos-x3d-v4 on amd64
  .
@@ -1242,18 +1242,18 @@ Description: Linux kernel, version 7.3.6-soplos-x3d-v3
 
 Package: linux-image-7.3.6-soplos-x3d-v4
 Source: linux-upstream
-Version: 1
+Version: 2
 Architecture: amd64
-Maintainer: jr <jr@jr-tyson>
-Installed-Size: 109501
+Maintainer: soplos <soplos@soplos-vmware201>
+Installed-Size: 111342
 Homepage: https://www.kernel.org/
 Priority: optional
 Section: kernel
-Filename: pool/main/l/linux-upstream/linux-image-7.3.6-soplos-x3d-v4_1_amd64.deb
-Size: 95453072
-SHA256: 0cb9b12373c65f00965006fbfd29bb88cf8c9348d9253da571edd9ded6f83007
-SHA1: 36d064c01778a5b495afc658f16281d54bc5061b
-MD5sum: 619d1041714ef932a98c7fc73a2dbde1
+Filename: pool/main/l/linux-upstream/linux-image-7.3.6-soplos-x3d-v4_2_amd64.deb
+Size: 97099316
+SHA256: 195a623ef644a72557ac595ec3eed6abde713133629b22b492e611ba79b1debf
+SHA1: 8cf9bfb5c5a62c8b7c1cb03ef73163f783ba0195
+MD5sum: 30bb92f1f08f337a862965bd8135141c
 Description: Linux kernel, version 7.3.6-soplos-x3d-v4
  This package contains the Linux kernel, modules and corresponding other
  files, version: 7.3.6-soplos-x3d-v4.
@@ -1858,17 +1858,17 @@ Description: Soplos X3D V3 kernel
  automatically pull in the new kernel.
 
 Package: linux-soplos-x3d-v4
-Version: 7.3.6
+Version: 7.3.6-2
 Architecture: amd64
 Maintainer: Soplos Linux Team <info@soplos.org>
 Depends: linux-image-7.3.6-soplos-x3d-v4, linux-headers-7.3.6-soplos-x3d-v4
 Priority: optional
 Section: kernel
-Filename: pool/main/l/linux-soplos-x3d-v4/linux-soplos-x3d-v4_7.3.6_amd64.deb
+Filename: pool/main/l/linux-soplos-x3d-v4/linux-soplos-x3d-v4_7.3.6-2_amd64.deb
 Size: 824
-SHA256: fc6d6938c04fa27cc4b2e6fd5da1c3a259bbd47630f56f9bcbb67a6eb983c72c
-SHA1: ba487ec089710de01c899d94d308df602c1e7b86
-MD5sum: 1fecd0551685b18206b1d7b6c16f27d5
+SHA256: 791a7d986c10dd9ea8dfc6be470a5cce2581eab7fc3b4d0d55ab8110bb3fa43f
+SHA1: 4e4401372200f06538b9c0a717d8a29f54717e78
+MD5sum: 104e8839a55fc8c60760bbd12817cd0e
 Description: Soplos X3D V4 kernel
  Installs the 7.3.6-soplos-x3d-v4 kernel and its headers.
  When a new version is released, upgrading this package will
