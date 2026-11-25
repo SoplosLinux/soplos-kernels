@@ -380,18 +380,18 @@ Description: Linux kernel headers for 7.3.6-soplos-bore-ntsync-v2 on amd64
 
 Package: linux-headers-7.3.6-soplos-bore-ntsync-v3
 Source: linux-upstream
-Version: 1
+Version: 2
 Architecture: amd64
-Maintainer: jr <jr@jr-tyson>
-Installed-Size: 60487
+Maintainer: soplos <soplos@soplos-vmware201>
+Installed-Size: 60488
 Homepage: https://www.kernel.org/
 Priority: optional
 Section: kernel
-Filename: pool/main/l/linux-upstream/linux-headers-7.3.6-soplos-bore-ntsync-v3_1_amd64.deb
-Size: 10197444
-SHA256: aeb70a523cf0e7ac6501cb42c3d8e8d3596338ad626166ef68f21c7548820af4
-SHA1: c2297470a3131376ccb646337b9365222cc8a14c
-MD5sum: c98781bf77e2aa951f0747231b308fee
+Filename: pool/main/l/linux-upstream/linux-headers-7.3.6-soplos-bore-ntsync-v3_2_amd64.deb
+Size: 10197052
+SHA256: c03b19ee27900607b115b233d357c282454b09287914555bc673d982dc645e87
+SHA1: ba3254ac49911f7e20863d8deebe25025a6cbf78
+MD5sum: 8814af6c95ec05feed13f0f58602e7b1
 Description: Linux kernel headers for 7.3.6-soplos-bore-ntsync-v3 on amd64
  This package provides kernel header files for 7.3.6-soplos-bore-ntsync-v3 on amd64
  .
@@ -570,18 +570,18 @@ Description: Linux kernel headers for 7.3.6-soplos-v4 on amd64
 
 Package: linux-headers-7.3.6-soplos-x3d-v3
 Source: linux-upstream
-Version: 1
+Version: 2
 Architecture: amd64
-Maintainer: jr <jr@jr-tyson>
-Installed-Size: 60487
+Maintainer: soplos <soplos@soplos-vmware201>
+Installed-Size: 60489
 Homepage: https://www.kernel.org/
 Priority: optional
 Section: kernel
-Filename: pool/main/l/linux-upstream/linux-headers-7.3.6-soplos-x3d-v3_1_amd64.deb
-Size: 10192796
-SHA256: e6a6c546717f7db46cd5ddfd27abdf509ec54576ea4f2968da25b8c259cff5ad
-SHA1: c5b319f9ffc1c753ec2c980e1ad3cab27a5daba8
-MD5sum: 611c29b250f461ffa90bcac2d5740c08
+Filename: pool/main/l/linux-upstream/linux-headers-7.3.6-soplos-x3d-v3_2_amd64.deb
+Size: 10193636
+SHA256: dc3506900027ad45f97d15d44651d14d78583e7088984ef9b8b89c16afac279f
+SHA1: 550539987b3110a2b499d2a883cb4ac3b77565cd
+MD5sum: 76238cfc72d2e0b75cd84c52a656bbd0
 Description: Linux kernel headers for 7.3.6-soplos-x3d-v3 on amd64
  This package provides kernel header files for 7.3.6-soplos-x3d-v3 on amd64
  .
@@ -1044,18 +1044,18 @@ Description: Linux kernel, version 7.3.6-soplos-bore-ntsync-v2
 
 Package: linux-image-7.3.6-soplos-bore-ntsync-v3
 Source: linux-upstream
-Version: 1
+Version: 2
 Architecture: amd64
-Maintainer: jr <jr@jr-tyson>
-Installed-Size: 109523
+Maintainer: soplos <soplos@soplos-vmware201>
+Installed-Size: 111401
 Homepage: https://www.kernel.org/
 Priority: optional
 Section: kernel
-Filename: pool/main/l/linux-upstream/linux-image-7.3.6-soplos-bore-ntsync-v3_1_amd64.deb
-Size: 95522612
-SHA256: bc633f8d2be2b2bde3280c20521dce0cbff51605b4cfc1622a9f2ba24d5ba2ce
-SHA1: 32e172bedda65d5f00aa68a9720876326be5e1a9
-MD5sum: a372ec8698111c67b71dbbc5210f0ae4
+Filename: pool/main/l/linux-upstream/linux-image-7.3.6-soplos-bore-ntsync-v3_2_amd64.deb
+Size: 97161508
+SHA256: 111f03d29a4bc1839b7e555f723d76bf32f441867b25daeb0f1300a8ac955839
+SHA1: 4bcc8041029720b8b170c3c4481b8890ae3d2935
+MD5sum: 5863af5da70309b3c615999cfdf3cbbd
 Description: Linux kernel, version 7.3.6-soplos-bore-ntsync-v3
  This package contains the Linux kernel, modules and corresponding other
  files, version: 7.3.6-soplos-bore-ntsync-v3.
@@ -1224,18 +1224,18 @@ Description: Linux kernel, version 7.3.6-soplos-v4
 
 Package: linux-image-7.3.6-soplos-x3d-v3
 Source: linux-upstream
-Version: 1
+Version: 2
 Architecture: amd64
-Maintainer: jr <jr@jr-tyson>
-Installed-Size: 109512
+Maintainer: soplos <soplos@soplos-vmware201>
+Installed-Size: 111365
 Homepage: https://www.kernel.org/
 Priority: optional
 Section: kernel
-Filename: pool/main/l/linux-upstream/linux-image-7.3.6-soplos-x3d-v3_1_amd64.deb
-Size: 95448836
-SHA256: f5766602d4ba704ee48d3063090fb8d4b3abb8e13e137a215657021b401275f0
-SHA1: 27bb4b6818d361ca2f9c495bdb7565cd0379bf0b
-MD5sum: 03e00e710b23b8e763fac14946e20447
+Filename: pool/main/l/linux-upstream/linux-image-7.3.6-soplos-x3d-v3_2_amd64.deb
+Size: 97106796
+SHA256: 294bc13c865b35fb7e62b64289a649e6952dee320df55c63abb3c77343b62fb8
+SHA1: d7034a6202cdae691e4ae718ef9aa38787db09f0
+MD5sum: 78a2e7c2927c08276e34f264dfd3e695
 Description: Linux kernel, version 7.3.6-soplos-x3d-v3
  This package contains the Linux kernel, modules and corresponding other
  files, version: 7.3.6-soplos-x3d-v3.
@@ -1365,17 +1365,17 @@ Description: Soplos Bore Ntsync V2 kernel
  automatically pull in the new kernel.
 
 Package: linux-soplos-bore-ntsync-v3
-Version: 7.3.6
+Version: 7.3.6-2
 Architecture: amd64
 Maintainer: Soplos Linux Team <info@soplos.org>
 Depends: linux-image-7.3.6-soplos-bore-ntsync-v3, linux-headers-7.3.6-soplos-bore-ntsync-v3
 Priority: optional
 Section: kernel
-Filename: pool/main/l/linux-soplos-bore-ntsync-v3/linux-soplos-bore-ntsync-v3_7.3.6_amd64.deb
+Filename: pool/main/l/linux-soplos-bore-ntsync-v3/linux-soplos-bore-ntsync-v3_7.3.6-2_amd64.deb
 Size: 832
-SHA256: 54e91f75c2b224cc67e84ca1d283da6b376d61985ee334e555f94f8bf687ed5f
-SHA1: 1da188f405b7206880678654caab9a9c3bc08373
-MD5sum: 479cbe78110294ac8f25185963b40e31
+SHA256: 8990de0dee6dc98adc74fe49be863a5f46b2a9e21847e3005700e036168ba9b1
+SHA1: 4fe4fe18644309a7e7edf61a695086cca50f1b5b
+MD5sum: f23f044a75d84a75c8b9e76ae1e0e8f6
 Description: Soplos Bore Ntsync V3 kernel
  Installs the 7.3.6-soplos-bore-ntsync-v3 kernel and its headers.
  When a new version is released, upgrading this package will
@@ -1841,17 +1841,17 @@ Description: Soplos Stock V4 kernel
  automatically pull in the new kernel.
 
 Package: linux-soplos-x3d-v3
-Version: 7.3.6
+Version: 7.3.6-2
 Architecture: amd64
 Maintainer: Soplos Linux Team <info@soplos.org>
 Depends: linux-image-7.3.6-soplos-x3d-v3, linux-headers-7.3.6-soplos-x3d-v3
 Priority: optional
 Section: kernel
-Filename: pool/main/l/linux-soplos-x3d-v3/linux-soplos-x3d-v3_7.3.6_amd64.deb
-Size: 824
-SHA256: 5fcd89c870b79961703471a3bc1e380ecea4509a4a0e0f96a8517707835cb331
-SHA1: 9902d25a8cd782f1616fcbba1a807f840b35c70f
-MD5sum: 559d40d7e5af695b4fd1c9d21e73bdad
+Filename: pool/main/l/linux-soplos-x3d-v3/linux-soplos-x3d-v3_7.3.6-2_amd64.deb
+Size: 828
+SHA256: 5e1f34b866e080f81cac7598e51430ee04727ebff4cffbe58a0c08a47dbbc4d9
+SHA1: cf9a8d1186e845e7f93a6057f4ec453c09519de9
+MD5sum: 85fd6f689ee7b41c1e42eaf295dc33cd
 Description: Soplos X3D V3 kernel
  Installs the 7.3.6-soplos-x3d-v3 kernel and its headers.
  When a new version is released, upgrading this package will
